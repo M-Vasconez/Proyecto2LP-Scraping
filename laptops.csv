@@ -1,297 +1,288 @@
-MARCA,DISCO,RAM,PULGADAS,PRECIO
-hp ,256gb,12gb,15.6,429.99
-lenovo ,256gb,8gb,15.6,349.99
-apple,256gb,8gb,13.6,999.00
-asus ,64gb,4gb,17.3,189.00
-hp ,512gb,16gb,15.6,649.99
-hp ,512gb,12gb,17.3,999.99
-hp ,256gb,8gb,15.6,649.99
-dell ,256gb,8gb,15.6,429.99
-hp ,1tb,16gb,13.5,"1,249.99"
-dell ,512gb,16gb,14,849.99
-apple,512gb,16gb,14,"1,599.00"
-hp ,512gb,8gb,15.6,499.99
-apple,512gb,16gb,16,"2,099.00"
-samsung ,256gb,8gb,13.3,649.99
-hp ,64gb,4gb,14,189.99
-dell,512gb,16gb,15.6,799.99
-hp ,64gb,4gb,14,189.99
-hp ,64gb,4gb,14,189.99
-apple,512gb,8gb,13.6,"1,299.00"
-hp omen ,1tb,16gb,16.1,"1,199.99"
-hp ,64gb,8gb,15.6,249.00
-dell ,256gb,8gb,15.6,379.99
-asus ,1tb,16gb,14,"1,199.99"
-asus ,128gb,4gb,14.0,199.99
-hp ,64gb,4gb,14,299.00
-hp ,256gb,8gb,14,449.99
-hp ,64gb,4gb,11.6,169.99
-apple,1tb,16gb,16,"2,299.00"
-apple,1tb,16gb,14,"2,099.00"
-samsung ,512gb,16gb,15.6,799.99
-hp ,128gb,8gb,14,499.00
-acer ,512gb,8gb,15.6,499.99
-lenovo ,256gb,8gb,15.6,799.99
-acer ,512gb,16gb,15.6,"1,299.99"
-asus ,512gb,16gb,15.6,"1,299.99"
-dell ,1tb,16gb,15.6,"1,949.99"
-dell ,1tb,16gb,15.6,"1,949.99"
-acer ,512gb,16gb,15.6,899.99
-microsoft ,256gb,8gb,13,899.99
-lenovo ,128gb,4gb,11.0,299.00
-samsung ,1tb,16gb,15.6,999.99
-samsung ,64gb,4gb,15.6,249.00
-lenovo ,512gb,8gb,13.3,649.99
-microsoft ,1tb,32gb,14.4,"2,500.00"
-samsung ,128gb,8gb,13.3,599.00
-dell ,1tb,16gb,16.0,"1,099.99"
-samsung ,512gb,16gb,13.3,"1,099.99"
-lenovo ,128gb,8gb,13.3,379.00
-dell ,512gb,16gb,13.4,"1,349.99"
-geo ,128gb,8gb,"",199.99
-asus ,256gb,8gb,15.6,499.99
-lenovo ,64gb,4gb,14,229.00
-dell ,512gb,16gb,14,749.99
-samsung ,256gb,8gb,15.6,599.99
-microsoft ,256gb,16gb,13,"1,399.99"
-microsoft ,256gb,8gb,13.5,899.99
-hp ,64gb,4gb,14,189.99
-microsoft ,128gb,8gb,12.4,599.99
-asus ,512gb,16gb,15.6,"1,349.99"
-asus ,512gb,8gb,15.6,879.99
-microsoft ,256gb,8gb,13,999.99
-microsoft ,256gb,8gb,12.4,649.99
-asus ,512gb,8gb,15.6,679.99
-microsoft ,256gb,8gb,15,"1,199.99"
-microsoft ,128gb,8gb,13,899.99
-lenovo ,1tb,16gb,16,"1,749.99"
-microsoft,128gb,8gb,13,599.99
-asus ,1tb,16gb,13.4,"1,199.99"
-microsoft ,256gb,16gb,14.4,"1,504.00"
-msi ,1tb,16gb,17.3,"1,649.99"
-microsoft ,512gb,16gb,13.5,"1,499.99"
-asus ,1tb,16gb,16,"1,699.99"
-acer ,128gb,8gb,14.0,449.00
-alienware ,512gb,16gb,15.6,"1,799.99"
-microsoft ,512gb,16gb,15,"1,599.99"
-alienware ,1tb,16gb,15.6,"2,199.99"
-msi ,1tb,16gb,15.6,"1,249.99"
-microsoft ,512gb,8gb,13.5,"1,149.99"
-gigabyte ,1tb,16gb,16,"1,399.99"
-microsoft,256gb,8gb,13,"1,136.00"
-samsung ,256gb,8gb,13.3,943.99
-asus ,1tb,16gb,13.4,"1,399.99"
-dell ,1tb,16gb,17,"2,299.99"
-razer ,1tb,16gb,14,"2,298.99"
-samsung ,64gb,4gb,13.3,449.00
-asus ,1tb,16gb,15.6,"1,899.99"
-asus ,512gb,8gb,17.3,799.99
-apple,1tb,32gb,16,"3,099.00"
-lg ,1tb,16gb,16,"1,319.99"
-samsung ,128gb,8gb,13.3,599.00
-microsoft ,1tb,32gb,15,"2,199.99"
-gigabyte ,512gb,16gb,15.6,"1,149.99"
-razer ,1tb,16gb,15.6,"2,736.99"
-apple ,128gb,8gb,13,849.99
-samsung ,256gb,8gb,13.3,899.99
-lg ,1tb,16gb,17,"1,399.99"
-apple ,256gb,8gb,13.3,749.99
-lg ,1tb,16gb,16,"1,344.99"
-microsoft ,512gb,8gb,15,"1,399.99"
-acer ,128gb,8gb,14,429.00
-lenovo ,witb,gb,17.3,849.99
-microsoft ,1tb,32gb,13,"2,399.99"
-hp ,256gb,8gb,14,689.99
-msi ,512gb,8gb,15.6,999.99
-apple,256gb,8gb,13.3,834.99
-razer ,1tb,32gb,15.6,"3,299.99"
-microsoft ,512gb,16gb,13,"1,699.99"
-msi ,1tb,16gb,15.6,999.99
-hp ,256gb,8gb,15.6,674.99
-acer ,64gb,8gb,14,359.00
-hp ,256gb,4gb,15.6,438.99
-apple ,256gb,8gb,13,899.99
-asus ,1tb,16gb,14,"1,029.99"
-lg ,1tb,16gb,14,"1,399.99"
-microsoft ,512gb,8gb,15,749.99
-samsung ,64gb,4gb,13.3,449.00
-microsoft ,1tb,16gb,13,"1,999.99"
-asus ,1tb,32gb,15.6,"2,626.99"
-microsoft,512gb,16gb,13,"1,699.99"
-asus ,1tb,16gb,16,"1,356.99"
-apple,256gb,8gb,13.3,999.99
-lg ,1tb,16gb,14,"1,291.99"
-apple ,128gb,8gb,13.3,699.99
-gigabyte ,1tb,16gb,16,"1,499.99"
-msi ,1tb,gb,15.6,"2,349.99"
-asus ,512gb,8gb,17.3,842.99
-apple ,128gb,8gb,13.3,699.99
-msi ,512gb,16gb,16,"1,249.99"
-apple ,256gb,8gb,13,899.99
-microsoft ,512gb,16gb,15,"1,619.99"
-apple ,256gb,8gb,13.3,809.99
-microsoft ,256gb,8gb,15,624.99
-apple ,128gb,8gb,13.3,749.99
-microsoft ,512gb,8gb,13.5,699.99
-samsung ,128gb,8gb,13.3,539.99
-apple,512gb,8gb,13.3,"1,149.99"
-msi ,512gb,16gb,15.6,"1,299.99"
-apple ,512gb,16gb,16,"1,699.99"
-asus ,gb,gb,16,"2,431.99"
-msi ,1tb,16gb,15.6,"2,133.99"
-msi ,1tb,32gb,17.3,"2,499.99"
-apple ,512gb,8gb,13.3,899.99
-apple ,256gb,8gb,13.3,789.99
-msi ,1tb,16gb,14,"1,499.99"
-asus ,512gb,gb,14,"1,243.99"
-acer ,256gb,8gb,14,499.99
-microsoft ,256gb,8gb,13.5,649.99
-apple ,512gb,16gb,13,"1,016.99"
-asus ,2tb,gb,16,"3,273.99"
-hp ,512gb,8gb,15.6,841.99
-asus ,512gb,8gb,14,888.99
-asus ,256gb,16gb,15.6,955.99
-msi ,1tb,32gb,15.6,"3,799.99"
-apple ,256gb,8gb,13,899.99
-microsoft ,256gb,8gb,13.5,729.99
-apple ,256gb,8gb,13,949.99
-msi ,1tb,32gb,13.4,"1,749.99"
-msi ,1tb,32gb,17.3,"2,899.99"
-msi ,1tb,32gb,17.3,"2,299.99"
-apple ,1tb,16gb,16,"1,999.99"
-asus ,1tb,32gb,13.3,"1,527.99"
-microsoft ,128gb,8gb,12.4,472.99
-asus ,1tb,gb,14,"1,745.99"
-apple ,256gb,16gb,15.4,"1,399.99"
-apple,512gb,8gb,13.3,"1,044.99"
-msi ,1tb,32gb,17.3,"3,499.99"
-asus ,512gb,8gb,14,778.99
-msi ,1tb,gb,17.3,"2,399.99"
-msi ,512gb,16gb,14,"1,199.99"
-msi ,512gb,16gb,15.6,"1,099.99"
-apple ,256gb,8gb,13.3,849.99
-samsung ,512gb,16gb,13.3,799.99
-msi ,1tb,16gb,15.6,"1,699.99"
-microsoft ,256gb,16gb,"","2,069.99"
-msi ,1tb,32gb,15.6,"1,499.99"
-samsung ,512gb,16gb,13.3,"1,099.99"
-msi ,1tb,gb,17.3,"2,968.99"
-msi ,512gb,16gb,17.3,"1,249.99"
-msi ,1tb,32gb,17.3,"3,799.99"
-msi ,1tb,32gb,16,"3,049.99"
-gigabyte ,1tb,16gb,15.6,"1,299.99"
-msi ,1tb,32gb,17.3,"3,399.99"
-msi ,1tb,32gb,16,"3,699.99"
-apple,256gb,8gb,13.3,834.99
-msi ,512gb,16gb,17.3,"1,499.99"
-msi ,512gb,16gb,14,"1,199.99"
-msi ,512gb,16gb,16,"1,499.99"
-asus ,256gb,8gb,14,846.99
-microsoft ,256gb,8gb,15,"1,147.99"
-asus ,512gb,gb,14,748.99
-apple ,512gb,16gb,13,"1,249.99"
-hp , gb,8gb,15.6,979.99
-apple ,512gb,8gb,13,949.99
-msi ,1tb,16gb,17.3,"1,799.99"
-msi ,1tb,16gb,16,"2,599.99"
-microsoft ,512gb,8gb,13.5,720.99
-apple,256gb,8gb,13.3,999.99
-geo ,64gb,4gb,"",134.99
-apple ,128gb,8gb,13.3,749.99
-microsoft ,128gb,8gb,12.4,440.99
-msi ,1tb,16gb,15.6,"2,499.99"
-msi ,512gb,16gb,14,"1,099.99"
-apple ,128gb,8gb,13,909.99
-dell ,256gb,16gb,13.3,863.99
-msi ,512gb,16gb,16,"1,099.99"
-msi ,1tb,16gb,17.3,"1,599.99"
-msi ,512gb,16gb,14,"1,299.99"
-acer ,128gb,4gb,11.6,363.99
-msi ,512gb,8gb,15.6,749.99
-msi ,512gb,16gb,14,"1,099.99"
-msi ,512gb,16gb,15.6,"1,499.99"
-msi ,512gb,16gb,17.3,"1,699.99"
-msi ,1tb,16gb,16,"2,529.99"
-asus ,256gb,8gb,15.6,947.99
-msi ,512gb,16gb,13.4,"1,099.99"
-asus ,512gb,gb,14,842.99
-msi ,1tb,32gb,17.3,"2,649.99"
-apple ,512gb,16gb,15.4,"1,749.99"
-apple ,256gb,16gb,15,"1,599.99"
-msi ,1tb,32gb,17.3,"2,299.99"
-apple ,256gb,16gb,15,"1,549.99"
-msi ,1tb,16gb,15.6,"1,699.99"
-msi ,512gb,16gb,13.4,"1,349.99"
-msi ,512gb,16gb,17.3,"1,299.99"
-asus ,512gb,8gb,14,926.99
-dell ,256gb,8gb,15.6,597.99
-asus ,512gb,16gb,15.6,971.99
-lg ,1tb,16gb,16,"1,099.99"
-hp ,512gb,12gb,15.6,719.99
-msi ,512gb,16gb,15.6,"1,376.99"
-apple ,256gb,8gb,13,"1,099.99"
-msi ,512gb,16gb,16,"1,449.99"
-msi ,512gb,16gb,15.6,"1,149.99"
-asus ,1tb,16gb,13.3,"1,494.99"
-microsoft ,256gb,8gb,13.5,994.99
-hp ,32gb,4gb,11.6,297.99
-msi ,512gb,16gb,16,"1,249.99"
-samsung ,32gb,4gb,15.6,242.99
-apple ,256gb,8gb,13.3,999.99
-msi ,1tb,gb,17.3,"2,449.99"
-microsoft ,64gb,4gb,12.4,346.99
-hp ,128gb,8gb,14,314.99
-microsoft ,256gb,8gb,13.5,994.99
-apple ,512gb,8gb,13.3,999.99
-microsoft ,512gb,8gb,13.5,900.99
-microsoft ,256gb,8gb,12.4,499.99
-microsoft ,128gb,8gb,13.5,764.99
-microsoft ,512gb,16gb,15,"1,349.99"
-apple ,1tb,16gb,13,"1,499.99"
-apple ,512gb,8gb,13,"1,199.99"
-apple ,512gb,8gb,13.3,999.99
-asus ,128gb,4gb,14,382.99
-msi ,1tb,16gb,15.6,"1,499.99"
-msi ,512gb,16gb,16,"2,299.99"
-asus ,256gb,gb,14,971.99
-msi ,512gb,16gb,13.4,"1,249.99"
-msi ,512gb,16gb,14,"1,066.99"
-asus ,512gb,gb,15.6,748.99
-apple ,256gb,8gb,13.3,"1,099.99"
-microsoft ,256gb,8gb,15,"1,147.99"
-apple ,1tb,16gb,16,"2,129.99"
-microsoft ,512gb,16gb,13.5,"1,912.99"
-apple ,512gb,16gb,16,"1,818.99"
-microsoft ,256gb,8gb,13.5,994.99
-apple ,256gb,8gb,13.3,769.99
-microsoft ,128gb,8gb,13.5,879.99
-apple ,256gb,8gb,13,"1,099.99"
-apple ,256gb,8gb,13,984.99
-apple ,512gb,16gb,15,"1,749.99"
-apple ,256gb,8gb,13,"1,299.99"
-apple ,512gb,8gb,13,"1,299.99"
-apple ,128gb,8gb,13.3,849.99
-apple ,128gb,8gb,13.3,849.99
-apple ,512gb,8gb,13,"1,199.99"
-apple ,512gb,16gb,13.3,"1,259.99"
-apple ,256gb,8gb,13.3,"1,538.99"
-microsoft ,512gb,16gb,15,"1,889.99"
-microsoft ,512gb,32gb,"","2,149.99"
-apple ,512gb,8gb,13,"1,099.99"
-microsoft ,256gb,16gb,15,"1,300.99"
-apple,512gb,8gb,13.3,"1,274.99"
-apple ,1tb,16gb,13,"1,669.99"
-apple ,256gb,8gb,13.3,794.99
-apple ,256gb,8gb,13,"1,214.99"
-apple,512gb,8gb,13.3,"1,044.99"
-apple ,512gb,16gb,13,"1,399.99"
-apple ,256gb,8gb,13.3,729.99
-apple,512gb,8gb,13.3,"1,044.99"
-msi ,512gb,16gb,14,"1,099.99"
-razer ,512gb,16gb,15.6,"2,339.99"
-microsoft ,256gb,16gb,13.5,"1,439.99"
-razer ,1tb,16gb,15.6,"2,339.99"
-razer ,512gb,16gb,13.3,"1,799.99"
-apple ,512gb,8gb,12,262.99
-apple ,1tb,16gb,15,"1,211.99"
-apple ,256gb,8gb,13.3,729.99
+MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR
+hp,256,12,15.6,429.99,15.6,intel core i5
+dell,256,8,15.6,389.99,inspiron,intel core i5
+hp,512,8,14,529.99,pavilion,intel core i5
+asus,64,4,11.6,109.99,11.6,intel celeron
+lenovo,256,8,15.6,349.99,ideapad,intel core i3
+hp,512,8,17.3,479.99,17.3,amd ryzen 5
+hp,512,16,15.6,849.99,victus,intel core i7
+asus,128,8,14,249.99,vivobook,amd ryzen 3
+dell,512,16,14,849.99,inspiron,intel core i7
+samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7
+apple,256,8,13.3,799.99,m1,apple m1
+lenovo,512,16,14,1299.99,yoga,intel core i7
+lenovo,256,8,15.6,529.99,flex,intel core i5
+hp,256,8,15.6,379.99,15.6,intel core i3
+hp,128,8,14,399.00,14,intel core i3
+samsung,512,16,13.3,899.99,galaxy book2,intel core i7
+hp,512,16,16,1249.99,spectre,intel core i7
+hp,64,4,11.6,179.00,chromebook ,mediatek
+hp,1024,16,16,1399.99,spectre,intel core i7
+hp,64,4,11.6,179.00,chromebook ,mediatek
+asus,512,16,15.6,999.99,zenbook,intel core i7
+asus,1024,16,16,1999.99,rog,intel core i9
+asus,512,16,16,679.99,vivobook,amd ryzen 7
+apple,256,8,13.6,1099.00,m2,apple m2
+lenovo,256,8,13.3,599.99,yoga,amd ryzen 5
+microsoft,256,8,12.4,649.99,surface laptop go,intel core i5
+lenovo,1024,16,14,1549.99,yoga,intel core i7
+asus,512,16,15.6,1199.99,tuf,intel core i7
+asus,64,4,14.0,149.99,14.0,intel celeron
+dell,256,8,15.6,429.99,inspiron,intel core i5
+msi,1024,16,15.6,1249.99,delta,amd ryzen r7
+asus,1024,16,16,1699.99,rog,amd ryzen 9
+lg,512,16,17,1299.99,ultrapc,intel core i7
+msi,1024,32,15.6,1999.99,vector,intel core i7hx
+asus,64,4,14.0,199.99,14.0,intel celeron
+asus,512,16,14,1199.99,rog,amd ryzen 7
+asus,1024,16,15.6,1199.99,zenbook,intel core i7
+lenovo,512,16,13.3,699.99,yoga,amd ryzen 7
+lenovo,64,4,14,229.00,chromebook 3,mediatek
+lenovo,64,4,15.6,329.00,chromebook 15.6,intel celeron
+dell,512,8,15.6,749.99,amd,amd ryzen 5
+lg,1024,16,16,1399.99,gram,intel core i7
+asus,1024,16,15.6,1899.99,rog,amd ryzen 9
+lenovo,256,8,15.6,679.99,ideapad,amd ryzen 5
+samsung,128,4,12.4,369.00,galaxy chromebook,intel celeron
+apple,512,8,13.6,1399.00,m2,apple m2
+asus,512,16,15.6,1299.99,rog,amd ryzen 9
+microsoft,128,8,12.3,699.99,surface pro,intel core i3
+microsoft,256,8,13.5,899.99,surface laptop 5,intel core i5
+microsoft,128,8,13,899.99,surface pro,intel core i5
+dell,1024,16,16.0,1099.99,g16,intel core i7
+asus,512,16,16,1499.99,rog,intel core i7
+microsoft,128,8,12.4,599.99,surface laptop go,intel core i5
+asus,1024,16,14,1399.99,rog,amd ryzen 9
+lenovo,512,16,16,1499.99,legion,intel core i7
+asus,128,8,16,549.00,16,intel core i3
+microsoft,256,8,15,1199.99,surface laptop 5,intel core i7
+microsoft,512,16,13.5,1499.99,surface laptop 5,intel core i7
+microsoft,512,16,15,1599.99,surface laptop 5,intel core i7
+acer,64,8,hd,379.00,acer,intel pentium
+microsoft,512,8,13.5,1149.99,surface laptop 5,intel core i5
+asus,512,8,17.3,799.99,tuf,intel core i5
+hp omen,1024,16,16.1,1299.99,amd,amd ryzen 7
+asus,1024,16,13.4,1499.99,rog,intel core i9
+alienware,1024,16,15.6,2199.99,x15,intel core i7
+microsoft,256,8,15,1099.99,surface laptop 4,amd ryzen 7
+asus,1024,16,13.4,1449.99,rog,amd ryzen 9
+lg,2048,32,17,1688.99,gram,intel core i7
+microsoft,1024,32,14.4,2500.00,surface laptop studio,intel core i7
+microsoft,1024,16,13,1945.00,surface pro,intel core i7
+razer,1024,16,14,2299.99,blade 14,amd ryzen 9
+alienware,512,16,15.6,1910.99,m15,amd ryzen 7
+asus,512,8,15.6,679.99,tuf,intel core i5
+alienware,512,16,15.6,1799.99,x15,intel core i7
+lg,1024,16,17,1399.99,gram,intel core i7
+samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7
+msi,1024,16,15.6,1699.99,gp66,intel core i7
+samsung,128,4,15.6,299.00,chromebook ,intel celeron
+microsoft,128,8,10.5,519.00,surface go,intel pentium
+microsoft,1024,32,15,2199.99,surface laptop 5,intel core i7
+hp,256,8,14,689.99,pavilion,intel core i5
+hp omen,512,16,16.1,1099.99,16.1,amd ryzen 7
+apple,128,8,13,849.99,macbook pro,intel core i5
+asus,32,4,15.6,209.99,chromebook ,intel celeron
+razer,1024,16,14,1899.99,blade 14,amd ryzen 9
+hp,256,8,15.6,674.99,pavilion,intel core i5
+msi,1024,16,15.6,1479.99,sword,intel core i7
+hp,256,4,15.6,438.99,15.6,intel pentium
+razer,1024,16,14,2399.99,blade 14,amd ryzen 9
+razer,1024,32,15.6,3299.99,blade 15,intel core i7
+apple,256,8,13,899.99,macbook pro,intel core i5
+microsoft,512,8,15,1399.99,surface laptop 5,intel core i7
+apple,512,16,13,1249.99,macbook pro,intel core i5
+lg,1024,16,16,1319.99,gram,intel core i7
+asus,1024,32,15.6,2626.99,zenbook,intel core i9
+razer,1024,16,15.6,2599.99,blade 15,intel core i7
+asus,512,16,15.6,1014.99,vivobook,amd ryzen 7
+apple,256,8,13.3,999.99,m1,apple m1
+gigabyte,1024,16,15.6,1299.99,aorus,intel core i7
+apple,256,8,13.3,749.99,macbook air,intel core i3
+microsoft,256,8,15,624.99,surface laptop 4,amd ryzen 7
+apple,128,8,13.3,699.99,macbook air,intel core i5
+apple,1024,16,16,1999.99,macbook pro,intel core i9
+razer,1024,16,15.6,2899.99,blade 15,intel core i9
+apple,512,8,13,949.99,macbook pro,intel core i5
+microsoft,512,16,15,1889.99,surface laptop 3,amd ryzen 7
+msi,512,16,16,1449.99,summit,intel core i7
+lg,2048,16,16,1499.99,gram,intel core i7
+asus,1024,16,14,1029.99,zenbook,amd ryzen 9
+hp,512,8,14,749.99,pavilion,intel core i5
+msi,512,16,16,1499.99,summit,intel core i7
+apple,128,8,13.3,749.99,macbook air,intel core i5
+msi,1024,32,17.3,3899.99,stealth,intel core black
+msi,1024,32,17.3,2649.99,ws76,intel core i9
+razer,1024,32,17.3,3499.99,blade 17,intel core i9
+razer,1024,16,14,2299.99,blade 14,amd ryzen 9
+apple,128,8,13.3,749.99,macbook air,intel core i5
+asus,32,4,11.6,189.99,chromebook ,intel celeron
+apple,1024,16,16,2129.99,macbook pro,intel core i9
+msi,1024,32,16,3049.99,creator,intel core i7
+apple,256,8,13.3,834.99,m1,apple m1
+razer,1024,16,17.3,2899.99,blade 17,intel core i7
+msi,1024,32,17.3,2299.99,ws76,intel core i7
+msi,1024,32,15.6,2299.99,ge66,intel core i7
+msi,1024,32,17.3,2899.99,vector,intel core black
+microsoft,256,8,12.4,499.99,surface laptop go,intel core i5
+microsoft,512,8,13.5,699.99,surface laptop 4,intel core i5
+lg,1024,16,14,1399.99,gram,intel core i7
+msi,1024,32,17.3,3499.99,raider,intel core i9
+lg,2048,16,16,1499.99,gram,intel core i7
+hp,256,4,15.6,436.99,15.6,intel pentium
+microsoft,256,8,13.5,649.99,surface laptop 4,amd ryzen 5
+msi,1024,16,15.6,2133.99,raider,intel core i7
+apple,128,8,13.3,699.99,macbook air,intel core i5
+microsoft,512,8,15,749.99,surface laptop 4,amd ryzen 7
+razer,1024,32,17.3,3699.99,blade 17,intel core i7
+msi,1024,16,15.6,1699.99,pulse,intel core i9
+apple,512,8,13.3,1149.99,m1,apple m1
+apple,256,8,13,949.99,macbook pro,intel core i5
+lg,1024,16,14,1263.99,gram,intel core i7
+razer,1024,16,15.6,2199.99,blade 15,intel core i7
+microsoft,128,8,12.4,440.99,surface laptop go,intel core i5
+apple,256,8,13,899.99,macbook pro,intel core i5
+apple,512,16,13,1016.99,pre,intel core i5
+asus,256,16,15.6,999.99,expertbook,intel core i5
+apple,512,8,13.3,899.99,macbook air,intel core i5
+apple,128,8,13,909.99,macbook pro,intel core i5
+razer,1024,16,14,2999.99,blade 14,amd ryzen 9
+msi,512,16,14,1199.99,prestige,intel core i7
+apple,512,16,16,1699.99,macbook pro,intel core i7
+msi,1024,16,17.3,1599.99,vector,intel core black
+asus,32,4,14,219.99,chromebook ,intel celeron
+asus,32,4,11.6,189.99,chromebook ,intel celeron
+msi,512,16,16,1099.99,creator,intel core i7
+msi,512,8,15.6,749.99,thin,intel core i5
+msi,1024,16,17.3,1799.99,wf76,intel core i7
+msi,1024,16,16,2529.99,creator,intel core i9
+msi,1024,32,17.3,2299.99,vector,intel core black
+msi,512,16,13.4,1349.99,summit,intel core i7
+msi,512,16,16,1249.99,summit,intel core i5
+hp,32,4,11.6,297.99,chromebook 11,intel celeron
+msi,1024,16,17.3,2749.99,raider,intel core i7
+samsung,512,16,13.3,899.99,galaxy book2,intel core i7
+apple,256,8,13.3,834.99,m1,apple m1
+razer,1024,16,13.4,1619.99,book,intel core i7
+asus,1024,32,13.3,1527.99,expertbook,intel core i7
+razer,1024,32,15.6,3299.99,blade 15,intel core i7
+razer,1024,32,17.3,3699.99,blade 17,intel core i7
+msi,1024,32,13.4,1749.99,summit,intel core i7
+microsoft,256,8,13.5,729.99,surface laptop 3,intel core i5
+asus,256,8,14,842.99,expertbook,intel core i5
+msi,512,16,15.6,1299.99,prestige,intel core i7
+asus,512,16,13.4,1683.99,flow,intel core i7
+msi,1024,32,17.3,2499.99,17.3,intel core i7
+msi,1024,32,17.3,3399.99,stealth,intel core black
+razer,1024,16,15.6,2599.99,blade 15,intel core i7
+msi,512,16,15.6,1099.99,prestige,intel core i5
+msi,1024,16,16,1699.99,summit,intel core i7
+msi,512,16,14,1199.99,summit,intel core i7
+microsoft,256,8,15,1147.99,surface 3,amd ryzen 5
+msi,512,16,16,1249.99,summit,intel core i7
+msi,512,16,17.3,1499.99,pulse,intel core i7
+asus,1024,16,14,1549.99,expertbook,intel core i7
+razer,512,16,13.4,1459.99,book,intel core i7
+razer,1024,16,17.3,2899.99,blade 17,intel core i7
+apple,256,16,15.4,1399.99,macbook pro,intel core i7
+hp,0,8,15.6,979.99,victus,intel core i5
+msi,1024,16,16,2599.99,creator,intel core i7
+samsung,1024,32,15.6,1684.99,galaxy book,intel core i7
+msi,512,16,17.3,1249.99,katana,intel core i7
+apple,256,8,13.3,849.99,macbook air,intel core i5
+samsung,128,8,13.3,539.99,galaxy chromebook,intel core i3
+apple,256,8,13.3,999.99,m1,apple m1
+apple,512,8,13.3,1044.99,m1,apple m1
+apple,256,8,13,899.99,macbook pro,intel core i5
+msi,1024,16,17.3,1870.99,katana,intel core i7
+samsung,512,8,13.3,1099.99,galaxy book2,intel core i7
+microsoft,512,8,13.5,720.99,surface laptop 4,intel core i5
+samsung,512,16,15.6,1367.99,galaxy book,intel core i7
+msi,512,16,14,1099.99,prestige,intel core i7
+asus,2048,32,14,1849.99,expertbook,intel core i7
+msi,1024,16,14,1499.99,14,intel core i7
+dell,256,16,13.3,863.99,geek,intel core i7
+razer,1024,16,17.3,2599.99,blade 17,intel core i7
+apple,512,16,15.4,1749.99,macbook pro,intel core i9
+samsung,32,4,15.6,242.99,chromebook ,intel celeron
+acer,128,4,11.6,363.99,travelmate,intel celeron
+apple,512,8,13.3,999.99,macbook air,intel core i5
+apple,512,8,13.3,999.99,macbook air,intel core i5
+msi,512,16,14,1099.99,summit,intel core i5
+msi,512,16,15.6,1499.99,pulse,intel core i7
+msi,512,16,17.3,1699.99,pulse,intel core i7
+razer,1024,16,17.3,3099.99,blade 17,intel core i9
+msi,512,16,13.4,1099.99,summit,intel core i5
+msi,1024,32,16,3699.99,creator,intel core i7
+apple,256,8,13.3,809.99,macbook air,intel core i5
+samsung,512,16,13.3,799.99,galaxy book,intel core i7
+msi,1024,16,15.6,2499.99,creator,intel core i7
+microsoft,256,8,13.5,1147.99,surface book,intel core i5
+msi,2048,32,16,2699.99,creator,intel core i9
+apple,256,8,13.3,789.99,macbook air,intel core i5
+asus,1024,16,15.6,1259.99,geek,intel core i7
+msi,1024,16,15.6,1699.99,wf66,intel core i7
+asus,1024,16,13.3,1421.99,expertbook,intel core i7
+microsoft,512,32,15,2267.99,surface book,intel core i7
+msi,512,16,17.3,1299.99,wf76,intel core i7
+asus,512,8,14,875.99,expertbook,intel core i5
+asus,512,16,13.3,1210.99,expertbook,intel core i7
+dell,256,8,15.6,597.99,inspiron,intel core i5
+asus,512,16,15.6,971.99,geek,amd ryzen 7
+apple,256,8,13.3,769.99,macbook air,intel core i3
+google,64,8,13.3,584.99,geek,intel core m3
+apple,256,8,13,1099.99,macbook pro,intel core i5
+msi,512,16,13.4,1391.99,summit,intel core i5
+msi,512,16,15.6,1149.99,prestige,intel core i5
+msi,1024,32,15.6,3249.99,ge66,intel core i7
+microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
+msi,1024,32,17.3,3799.99,17.3,intel core i9
+microsoft,512,16,15,1619.99,surface laptop 4,intel core i7
+asus,256,8,15.6,842.99,expertbook,intel core i5
+asus,512,16,13.3,1052.99,expertbook,intel core i5
+apple,256,8,13.3,999.99,macbook air,intel core i5
+microsoft,128,8,13.5,879.99,surface book,intel core i5
+microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
+microsoft,512,8,13.5,900.99,surface laptop 4,intel core i5
+microsoft,128,8,13.5,764.99,surface laptop 3,intel core i5
+microsoft,512,16,15,1349.99,surface laptop 4,intel core i7
+apple,1024,16,13,1499.99,macbook pro,intel core i5
+apple,512,8,13,1199.99,macbook pro,intel core i5
+apple,512,8,13,1199.99,macbook pro,intel core i5
+asus,128,4,14,382.99,geek,intel core m3
+msi,1024,16,15.6,1499.99,delta,amd ryzen 7
+msi,512,16,16,2299.99,creator,intel core i7
+msi,512,16,13.4,1249.99,summit,intel core i5
+msi,512,16,14,1066.99,prestige,intel core i5
+hp omen,512,16,16.1,1719.99,16.1,intel core i7
+acer,512,8,14,782.99,travelmate,intel core i5
+apple,256,8,13.3,1099.99,macbook air,intel core i5
+microsoft,256,8,15,1147.99,surface laptop 3,amd ryzen 5
+apple,512,16,16,1818.99,macbook pro,intel core i7
+microsoft,512,16,13.5,1912.99,surface book,intel core i7
+microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
+apple,256,8,13,1299.99,macbook pro,intel core i5
+apple,256,8,13,1099.99,macbook pro,intel core i5
+apple,256,16,15,1599.99,macbook pro,intel core i7
+apple,256,8,13.3,1538.99,macbook pro,intel core i5
+apple,256,8,13,984.99,macbook pro,intel core i5
+apple,512,16,15,1749.99,macbook pro,intel core i7
+apple,512,16,13.3,1259.99,macbook air,intel core i5
+apple,128,8,13.3,849.99,macbook air,intel core i5
+apple,128,8,13.3,849.99,macbook air,intel core i5
+microsoft,256,8,12.4,566.99,surface laptop go,intel core i5
+apple,256,16,15,1549.99,macbook pro,intel core i7
+apple,512,8,13,1299.99,macbook pro,intel core i5
+microsoft,256,16,15,1300.99,surface laptop 3,amd ryzen 5
+apple,1024,16,13,1669.99,macbook pro,intel core i5
+apple,512,8,13.3,1274.99,m1,apple m1
+apple,256,8,13.3,794.99,macbook air,intel core i3
+apple,512,8,13,1099.99,macbook pro,intel core i5
+apple,512,16,13,1399.99,macbook pro,intel core i5
+apple,256,8,13,1214.99,macbook pro®,intel core i5
+apple,256,8,13.3,729.99,macbook air,intel core i5
+microsoft,256,16,13.5,1439.99,surface book,intel core i7
+razer,512,16,13.3,1799.99,blade stealth,intel core i7
+apple,1024,16,14,2124.99,m1,apple m1
+apple,1024,16,15,1211.99,macbook pro,intel core i7
+apple,512,8,12,262.99,gsrf,intel core i5
