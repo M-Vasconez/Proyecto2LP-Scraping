@@ -7,7 +7,7 @@ macro_brands=["UNIDEN","ACURITE","SPY","HIDDEN","INDOOR","GOOGLE","WIRELESS","LI
 
 CSV.open('camaras.csv', 'wb') do |csv|
   conf=0; pagina=1
-  while (pagina<7)
+  while (pagina<4)
     puts "Scrapeando la url https://www.amazon.com/camaras_seguridad?page=#{pagina}..."
     link = "https://www.amazon.com/s?i=electronics-intl-ship&bbn=16225009011&rh=n%3A16225009011%2Cn%3A524136&page=#{pagina}&qid=1673195093&ref=sr_pg_#{pagina}"
   datosHTML = URI.open(link, 'User-Agent' => 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36')
