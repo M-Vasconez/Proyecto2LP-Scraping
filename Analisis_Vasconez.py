@@ -1,11 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
 arr = np.loadtxt("camaras.csv",delimiter=',',dtype=str)
 marcas = {}
 promedio_marcas = {}
-#print("Numpy length: ",arr)
+
+
+#Unificacion del nombre de las marcas con sus posibles ratings
 for x in arr:
     if x[0] in marcas.keys():
         numero = float(x[1])
@@ -14,22 +15,24 @@ for x in arr:
         numero = float(x[1])
         marcas[x[0]]=[numero]
 
+#Calculo de; promedio por marca
 for key in marcas:
     promedio = sum(marcas[key])/len(marcas[key])
     promedio_marcas[key] = promedio
 
-#print(promedio_marcas)
-sorted_promedio = dict(sorted(promedio_marcas.items(), key = lambda x:x[1]))
+#Ordenamiento de las marcas por su promedio
+sorted_promedio = dict(sorted(promedio_marcas.items(), key = lambda x:x[1],reverse=True))
 print(sorted_promedio)
 
-
+#Grafico de las marcas por su promedio ordenado
 names = sorted_promedio.keys()
 values = sorted_promedio.values()
-
-# fig = plt.figure()
-# ax = fig.add_axes([0,0,1,1])
-# ax.bar(range(len(sorted_promedio)), values,tick_label=names)
-# plt.show()
-
-plt.bar(range(len(sorted_promedio)), values,tick_label=names)
+plt.bar(names, values,color=["#264653","#2a9d8f",'#e9c46a',"#f4a261","#e76f51"])
+plt.xticks(rotation='vertical')
+plt.ylabel("Ratings")
+plt.xlabel("Marcas")
+plt.title("Marcas segun su rating")
 plt.show()
+
+
+
