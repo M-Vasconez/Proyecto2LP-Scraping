@@ -1,288 +1,227 @@
-MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR
-hp,256,12,15.6,429.99,15.6,intel core i5
-dell,256,8,15.6,389.99,inspiron,intel core i5
-hp,512,8,14,529.99,pavilion,intel core i5
-asus,64,4,11.6,109.99,11.6,intel celeron
-lenovo,256,8,15.6,349.99,ideapad,intel core i3
-hp,512,8,17.3,479.99,17.3,amd ryzen 5
-hp,512,16,15.6,849.99,victus,intel core i7
-asus,128,8,14,249.99,vivobook,amd ryzen 3
-dell,512,16,14,849.99,inspiron,intel core i7
-samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7
-apple,256,8,13.3,799.99,m1,apple m1
-lenovo,512,16,14,1299.99,yoga,intel core i7
-lenovo,256,8,15.6,529.99,flex,intel core i5
-hp,256,8,15.6,379.99,15.6,intel core i3
-hp,128,8,14,399.00,14,intel core i3
-samsung,512,16,13.3,899.99,galaxy book2,intel core i7
-hp,512,16,16,1249.99,spectre,intel core i7
-hp,64,4,11.6,179.00,chromebook ,mediatek
-hp,1024,16,16,1399.99,spectre,intel core i7
-hp,64,4,11.6,179.00,chromebook ,mediatek
-asus,512,16,15.6,999.99,zenbook,intel core i7
-asus,1024,16,16,1999.99,rog,intel core i9
-asus,512,16,16,679.99,vivobook,amd ryzen 7
-apple,256,8,13.6,1099.00,m2,apple m2
-lenovo,256,8,13.3,599.99,yoga,amd ryzen 5
-microsoft,256,8,12.4,649.99,surface laptop go,intel core i5
-lenovo,1024,16,14,1549.99,yoga,intel core i7
-asus,512,16,15.6,1199.99,tuf,intel core i7
-asus,64,4,14.0,149.99,14.0,intel celeron
-dell,256,8,15.6,429.99,inspiron,intel core i5
-msi,1024,16,15.6,1249.99,delta,amd ryzen r7
-asus,1024,16,16,1699.99,rog,amd ryzen 9
-lg,512,16,17,1299.99,ultrapc,intel core i7
-msi,1024,32,15.6,1999.99,vector,intel core i7hx
-asus,64,4,14.0,199.99,14.0,intel celeron
-asus,512,16,14,1199.99,rog,amd ryzen 7
-asus,1024,16,15.6,1199.99,zenbook,intel core i7
-lenovo,512,16,13.3,699.99,yoga,amd ryzen 7
-lenovo,64,4,14,229.00,chromebook 3,mediatek
-lenovo,64,4,15.6,329.00,chromebook 15.6,intel celeron
-dell,512,8,15.6,749.99,amd,amd ryzen 5
-lg,1024,16,16,1399.99,gram,intel core i7
-asus,1024,16,15.6,1899.99,rog,amd ryzen 9
-lenovo,256,8,15.6,679.99,ideapad,amd ryzen 5
-samsung,128,4,12.4,369.00,galaxy chromebook,intel celeron
-apple,512,8,13.6,1399.00,m2,apple m2
-asus,512,16,15.6,1299.99,rog,amd ryzen 9
-microsoft,128,8,12.3,699.99,surface pro,intel core i3
-microsoft,256,8,13.5,899.99,surface laptop 5,intel core i5
-microsoft,128,8,13,899.99,surface pro,intel core i5
-dell,1024,16,16.0,1099.99,g16,intel core i7
-asus,512,16,16,1499.99,rog,intel core i7
-microsoft,128,8,12.4,599.99,surface laptop go,intel core i5
-asus,1024,16,14,1399.99,rog,amd ryzen 9
-lenovo,512,16,16,1499.99,legion,intel core i7
-asus,128,8,16,549.00,16,intel core i3
-microsoft,256,8,15,1199.99,surface laptop 5,intel core i7
-microsoft,512,16,13.5,1499.99,surface laptop 5,intel core i7
-microsoft,512,16,15,1599.99,surface laptop 5,intel core i7
-acer,64,8,hd,379.00,acer,intel pentium
-microsoft,512,8,13.5,1149.99,surface laptop 5,intel core i5
-asus,512,8,17.3,799.99,tuf,intel core i5
-hp omen,1024,16,16.1,1299.99,amd,amd ryzen 7
-asus,1024,16,13.4,1499.99,rog,intel core i9
-alienware,1024,16,15.6,2199.99,x15,intel core i7
-microsoft,256,8,15,1099.99,surface laptop 4,amd ryzen 7
-asus,1024,16,13.4,1449.99,rog,amd ryzen 9
-lg,2048,32,17,1688.99,gram,intel core i7
-microsoft,1024,32,14.4,2500.00,surface laptop studio,intel core i7
-microsoft,1024,16,13,1945.00,surface pro,intel core i7
-razer,1024,16,14,2299.99,blade 14,amd ryzen 9
-alienware,512,16,15.6,1910.99,m15,amd ryzen 7
-asus,512,8,15.6,679.99,tuf,intel core i5
-alienware,512,16,15.6,1799.99,x15,intel core i7
-lg,1024,16,17,1399.99,gram,intel core i7
-samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7
-msi,1024,16,15.6,1699.99,gp66,intel core i7
-samsung,128,4,15.6,299.00,chromebook ,intel celeron
-microsoft,128,8,10.5,519.00,surface go,intel pentium
-microsoft,1024,32,15,2199.99,surface laptop 5,intel core i7
-hp,256,8,14,689.99,pavilion,intel core i5
-hp omen,512,16,16.1,1099.99,16.1,amd ryzen 7
-apple,128,8,13,849.99,macbook pro,intel core i5
-asus,32,4,15.6,209.99,chromebook ,intel celeron
-razer,1024,16,14,1899.99,blade 14,amd ryzen 9
-hp,256,8,15.6,674.99,pavilion,intel core i5
-msi,1024,16,15.6,1479.99,sword,intel core i7
-hp,256,4,15.6,438.99,15.6,intel pentium
-razer,1024,16,14,2399.99,blade 14,amd ryzen 9
-razer,1024,32,15.6,3299.99,blade 15,intel core i7
-apple,256,8,13,899.99,macbook pro,intel core i5
-microsoft,512,8,15,1399.99,surface laptop 5,intel core i7
-apple,512,16,13,1249.99,macbook pro,intel core i5
-lg,1024,16,16,1319.99,gram,intel core i7
-asus,1024,32,15.6,2626.99,zenbook,intel core i9
-razer,1024,16,15.6,2599.99,blade 15,intel core i7
-asus,512,16,15.6,1014.99,vivobook,amd ryzen 7
-apple,256,8,13.3,999.99,m1,apple m1
-gigabyte,1024,16,15.6,1299.99,aorus,intel core i7
-apple,256,8,13.3,749.99,macbook air,intel core i3
-microsoft,256,8,15,624.99,surface laptop 4,amd ryzen 7
-apple,128,8,13.3,699.99,macbook air,intel core i5
-apple,1024,16,16,1999.99,macbook pro,intel core i9
-razer,1024,16,15.6,2899.99,blade 15,intel core i9
-apple,512,8,13,949.99,macbook pro,intel core i5
-microsoft,512,16,15,1889.99,surface laptop 3,amd ryzen 7
-msi,512,16,16,1449.99,summit,intel core i7
-lg,2048,16,16,1499.99,gram,intel core i7
-asus,1024,16,14,1029.99,zenbook,amd ryzen 9
-hp,512,8,14,749.99,pavilion,intel core i5
-msi,512,16,16,1499.99,summit,intel core i7
-apple,128,8,13.3,749.99,macbook air,intel core i5
-msi,1024,32,17.3,3899.99,stealth,intel core black
-msi,1024,32,17.3,2649.99,ws76,intel core i9
-razer,1024,32,17.3,3499.99,blade 17,intel core i9
-razer,1024,16,14,2299.99,blade 14,amd ryzen 9
-apple,128,8,13.3,749.99,macbook air,intel core i5
-asus,32,4,11.6,189.99,chromebook ,intel celeron
-apple,1024,16,16,2129.99,macbook pro,intel core i9
-msi,1024,32,16,3049.99,creator,intel core i7
-apple,256,8,13.3,834.99,m1,apple m1
-razer,1024,16,17.3,2899.99,blade 17,intel core i7
-msi,1024,32,17.3,2299.99,ws76,intel core i7
-msi,1024,32,15.6,2299.99,ge66,intel core i7
-msi,1024,32,17.3,2899.99,vector,intel core black
-microsoft,256,8,12.4,499.99,surface laptop go,intel core i5
-microsoft,512,8,13.5,699.99,surface laptop 4,intel core i5
-lg,1024,16,14,1399.99,gram,intel core i7
-msi,1024,32,17.3,3499.99,raider,intel core i9
-lg,2048,16,16,1499.99,gram,intel core i7
-hp,256,4,15.6,436.99,15.6,intel pentium
-microsoft,256,8,13.5,649.99,surface laptop 4,amd ryzen 5
-msi,1024,16,15.6,2133.99,raider,intel core i7
-apple,128,8,13.3,699.99,macbook air,intel core i5
-microsoft,512,8,15,749.99,surface laptop 4,amd ryzen 7
-razer,1024,32,17.3,3699.99,blade 17,intel core i7
-msi,1024,16,15.6,1699.99,pulse,intel core i9
-apple,512,8,13.3,1149.99,m1,apple m1
-apple,256,8,13,949.99,macbook pro,intel core i5
-lg,1024,16,14,1263.99,gram,intel core i7
-razer,1024,16,15.6,2199.99,blade 15,intel core i7
-microsoft,128,8,12.4,440.99,surface laptop go,intel core i5
-apple,256,8,13,899.99,macbook pro,intel core i5
-apple,512,16,13,1016.99,pre,intel core i5
-asus,256,16,15.6,999.99,expertbook,intel core i5
-apple,512,8,13.3,899.99,macbook air,intel core i5
-apple,128,8,13,909.99,macbook pro,intel core i5
-razer,1024,16,14,2999.99,blade 14,amd ryzen 9
-msi,512,16,14,1199.99,prestige,intel core i7
-apple,512,16,16,1699.99,macbook pro,intel core i7
-msi,1024,16,17.3,1599.99,vector,intel core black
-asus,32,4,14,219.99,chromebook ,intel celeron
-asus,32,4,11.6,189.99,chromebook ,intel celeron
-msi,512,16,16,1099.99,creator,intel core i7
-msi,512,8,15.6,749.99,thin,intel core i5
-msi,1024,16,17.3,1799.99,wf76,intel core i7
-msi,1024,16,16,2529.99,creator,intel core i9
-msi,1024,32,17.3,2299.99,vector,intel core black
-msi,512,16,13.4,1349.99,summit,intel core i7
-msi,512,16,16,1249.99,summit,intel core i5
-hp,32,4,11.6,297.99,chromebook 11,intel celeron
-msi,1024,16,17.3,2749.99,raider,intel core i7
-samsung,512,16,13.3,899.99,galaxy book2,intel core i7
-apple,256,8,13.3,834.99,m1,apple m1
-razer,1024,16,13.4,1619.99,book,intel core i7
-asus,1024,32,13.3,1527.99,expertbook,intel core i7
-razer,1024,32,15.6,3299.99,blade 15,intel core i7
-razer,1024,32,17.3,3699.99,blade 17,intel core i7
-msi,1024,32,13.4,1749.99,summit,intel core i7
-microsoft,256,8,13.5,729.99,surface laptop 3,intel core i5
-asus,256,8,14,842.99,expertbook,intel core i5
-msi,512,16,15.6,1299.99,prestige,intel core i7
-asus,512,16,13.4,1683.99,flow,intel core i7
-msi,1024,32,17.3,2499.99,17.3,intel core i7
-msi,1024,32,17.3,3399.99,stealth,intel core black
-razer,1024,16,15.6,2599.99,blade 15,intel core i7
-msi,512,16,15.6,1099.99,prestige,intel core i5
-msi,1024,16,16,1699.99,summit,intel core i7
-msi,512,16,14,1199.99,summit,intel core i7
-microsoft,256,8,15,1147.99,surface 3,amd ryzen 5
-msi,512,16,16,1249.99,summit,intel core i7
-msi,512,16,17.3,1499.99,pulse,intel core i7
-asus,1024,16,14,1549.99,expertbook,intel core i7
-razer,512,16,13.4,1459.99,book,intel core i7
-razer,1024,16,17.3,2899.99,blade 17,intel core i7
-apple,256,16,15.4,1399.99,macbook pro,intel core i7
-hp,0,8,15.6,979.99,victus,intel core i5
-msi,1024,16,16,2599.99,creator,intel core i7
-samsung,1024,32,15.6,1684.99,galaxy book,intel core i7
-msi,512,16,17.3,1249.99,katana,intel core i7
-apple,256,8,13.3,849.99,macbook air,intel core i5
-samsung,128,8,13.3,539.99,galaxy chromebook,intel core i3
-apple,256,8,13.3,999.99,m1,apple m1
-apple,512,8,13.3,1044.99,m1,apple m1
-apple,256,8,13,899.99,macbook pro,intel core i5
-msi,1024,16,17.3,1870.99,katana,intel core i7
-samsung,512,8,13.3,1099.99,galaxy book2,intel core i7
-microsoft,512,8,13.5,720.99,surface laptop 4,intel core i5
-samsung,512,16,15.6,1367.99,galaxy book,intel core i7
-msi,512,16,14,1099.99,prestige,intel core i7
-asus,2048,32,14,1849.99,expertbook,intel core i7
-msi,1024,16,14,1499.99,14,intel core i7
-dell,256,16,13.3,863.99,geek,intel core i7
-razer,1024,16,17.3,2599.99,blade 17,intel core i7
-apple,512,16,15.4,1749.99,macbook pro,intel core i9
-samsung,32,4,15.6,242.99,chromebook ,intel celeron
-acer,128,4,11.6,363.99,travelmate,intel celeron
-apple,512,8,13.3,999.99,macbook air,intel core i5
-apple,512,8,13.3,999.99,macbook air,intel core i5
-msi,512,16,14,1099.99,summit,intel core i5
-msi,512,16,15.6,1499.99,pulse,intel core i7
-msi,512,16,17.3,1699.99,pulse,intel core i7
-razer,1024,16,17.3,3099.99,blade 17,intel core i9
-msi,512,16,13.4,1099.99,summit,intel core i5
-msi,1024,32,16,3699.99,creator,intel core i7
-apple,256,8,13.3,809.99,macbook air,intel core i5
-samsung,512,16,13.3,799.99,galaxy book,intel core i7
-msi,1024,16,15.6,2499.99,creator,intel core i7
-microsoft,256,8,13.5,1147.99,surface book,intel core i5
-msi,2048,32,16,2699.99,creator,intel core i9
-apple,256,8,13.3,789.99,macbook air,intel core i5
-asus,1024,16,15.6,1259.99,geek,intel core i7
-msi,1024,16,15.6,1699.99,wf66,intel core i7
-asus,1024,16,13.3,1421.99,expertbook,intel core i7
-microsoft,512,32,15,2267.99,surface book,intel core i7
-msi,512,16,17.3,1299.99,wf76,intel core i7
-asus,512,8,14,875.99,expertbook,intel core i5
-asus,512,16,13.3,1210.99,expertbook,intel core i7
-dell,256,8,15.6,597.99,inspiron,intel core i5
-asus,512,16,15.6,971.99,geek,amd ryzen 7
-apple,256,8,13.3,769.99,macbook air,intel core i3
-google,64,8,13.3,584.99,geek,intel core m3
-apple,256,8,13,1099.99,macbook pro,intel core i5
-msi,512,16,13.4,1391.99,summit,intel core i5
-msi,512,16,15.6,1149.99,prestige,intel core i5
-msi,1024,32,15.6,3249.99,ge66,intel core i7
-microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
-msi,1024,32,17.3,3799.99,17.3,intel core i9
-microsoft,512,16,15,1619.99,surface laptop 4,intel core i7
-asus,256,8,15.6,842.99,expertbook,intel core i5
-asus,512,16,13.3,1052.99,expertbook,intel core i5
-apple,256,8,13.3,999.99,macbook air,intel core i5
-microsoft,128,8,13.5,879.99,surface book,intel core i5
-microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
-microsoft,512,8,13.5,900.99,surface laptop 4,intel core i5
-microsoft,128,8,13.5,764.99,surface laptop 3,intel core i5
-microsoft,512,16,15,1349.99,surface laptop 4,intel core i7
-apple,1024,16,13,1499.99,macbook pro,intel core i5
-apple,512,8,13,1199.99,macbook pro,intel core i5
-apple,512,8,13,1199.99,macbook pro,intel core i5
-asus,128,4,14,382.99,geek,intel core m3
-msi,1024,16,15.6,1499.99,delta,amd ryzen 7
-msi,512,16,16,2299.99,creator,intel core i7
-msi,512,16,13.4,1249.99,summit,intel core i5
-msi,512,16,14,1066.99,prestige,intel core i5
-hp omen,512,16,16.1,1719.99,16.1,intel core i7
-acer,512,8,14,782.99,travelmate,intel core i5
-apple,256,8,13.3,1099.99,macbook air,intel core i5
-microsoft,256,8,15,1147.99,surface laptop 3,amd ryzen 5
-apple,512,16,16,1818.99,macbook pro,intel core i7
-microsoft,512,16,13.5,1912.99,surface book,intel core i7
-microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5
-apple,256,8,13,1299.99,macbook pro,intel core i5
-apple,256,8,13,1099.99,macbook pro,intel core i5
-apple,256,16,15,1599.99,macbook pro,intel core i7
-apple,256,8,13.3,1538.99,macbook pro,intel core i5
-apple,256,8,13,984.99,macbook pro,intel core i5
-apple,512,16,15,1749.99,macbook pro,intel core i7
-apple,512,16,13.3,1259.99,macbook air,intel core i5
-apple,128,8,13.3,849.99,macbook air,intel core i5
-apple,128,8,13.3,849.99,macbook air,intel core i5
-microsoft,256,8,12.4,566.99,surface laptop go,intel core i5
-apple,256,16,15,1549.99,macbook pro,intel core i7
-apple,512,8,13,1299.99,macbook pro,intel core i5
-microsoft,256,16,15,1300.99,surface laptop 3,amd ryzen 5
-apple,1024,16,13,1669.99,macbook pro,intel core i5
-apple,512,8,13.3,1274.99,m1,apple m1
-apple,256,8,13.3,794.99,macbook air,intel core i3
-apple,512,8,13,1099.99,macbook pro,intel core i5
-apple,512,16,13,1399.99,macbook pro,intel core i5
-apple,256,8,13,1214.99,macbook pro®,intel core i5
-apple,256,8,13.3,729.99,macbook air,intel core i5
-microsoft,256,16,13.5,1439.99,surface book,intel core i7
-razer,512,16,13.3,1799.99,blade stealth,intel core i7
-apple,1024,16,14,2124.99,m1,apple m1
-apple,1024,16,15,1211.99,macbook pro,intel core i7
-apple,512,8,12,262.99,gsrf,intel core i5
+MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR,LINK
+hp,256,12,15.6,429.99,15.6,intel core i5,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i5-12gb-memory-256gb-ssd-natural-silver/6510531.p?skuId=6510531
+hp,512,16,15.6,849.99,envy,intel core i7,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-intel-evo-platform-intel-core-i7-16gb-memory-512gb-ssd-natural-silver/6502179.p?skuId=6502179
+lenovo,256,8,15.6,349.99,ideapad,intel core i3,https://www.bestbuy.com/site/lenovo-ideapad-3i-15-6-hd-touch-laptop-core-i3-1115g4-8gb-memory-256gb-ssd-platinum-grey/6511950.p?skuId=6511950
+hp,512,8,17.3,469.99,17.3,amd ryzen 5,https://www.bestbuy.com/site/hp-17-3-laptop-amd-ryzen-5-8gb-memory-512gb-ssd-natural-silver/6510530.p?skuId=6510530
+hp,256,8,15.6,549.99,envy,amd ryzen 5,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-amd-ryzen-5-5625u-8gb-memory-256gb-ssd-nightfall-black/6502184.p?skuId=6502184
+dell,256,8,15.6,429.99,inspiron,intel core i5,https://www.bestbuy.com/site/dell-inspiron-3511-15-6-touch-laptop-intel-core-i5-8gb-memory-256gb-solid-state-drive-black/6511315.p?skuId=6511315
+hp,512,8,15.6,549.99,victus,intel core i5,https://www.bestbuy.com/site/hp-victus-15-6-gaming-laptop-intel-core-i5-12450h-8gb-memory-nvidia-geforce-gtx-1650-512gb-ssd-mica-silver/6503849.p?skuId=6503849
+asus,128,4,14.0,199.99,14.0,intel celeron,https://www.bestbuy.com/site/asus-14-0-laptop-intel-celeron-n4500-4gb-memory-128gb-emmc-star-black/6498803.p?skuId=6498803
+hp,512,12,15.6,749.99,envy,amd ryzen 7,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-amd-ryzen-7-5825u-12gb-memory-512gb-ssd-nightfall-black/6502185.p?skuId=6502185
+lenovo,256,8,16,699.99,yoga,intel core i5,https://www.bestbuy.com/site/lenovo-yoga-7i-16-2-5k-touch-2-in-1-laptop-intel-evo-platform-core-i5-1240p-8gb-memory-256gb-ssd-storm-grey/6502225.p?skuId=6502225
+lenovo,1024,32,16,1399.99,yoga,intel core i7,https://www.bestbuy.com/site/lenovo-yoga-7i-16-2-5k-touch-2-in-1-laptop-intel-evo-platform-core-i7-12700h-32gb-memory-intel-arc-a370m-1tb-ssd-arctic-grey/6502223.p?skuId=6502223
+dell,256,8,15.6,379.99,inspiron,amd ryzen 5,https://www.bestbuy.com/site/dell-inspiron-15-6-laptop-amd-ryzen-5-8gb-memory-256gb-solid-state-drive-carbon-black/6508652.p?skuId=6508652
+asus,512,16,15.6,1199.99,rog,amd ryzen 9,https://www.bestbuy.com/site/asus-rog-zephyrus-15-6-wqhd-165hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-nvidia-geforce-rtx-3060-512gb-pcie-4-0-ssd-eclipse-gray/6494630.p?skuId=6494630
+hp,64,4,14,199.99,14,intel celeron,https://www.bestbuy.com/site/hp-14-laptop-intel-celeron-4gb-memory-64gb-emmc-indigo-blue/6499751.p?skuId=6499751
+lenovo,512,16,16,999.99,yoga,intel core i7,https://www.bestbuy.com/site/lenovo-yoga-7i-16-2-5k-touch-2-in-1-laptop-intel-evo-platform-core-i7-1260p-16gb-memory-512gb-ssd-arctic-grey/6502220.p?skuId=6502220
+hp,64,4,14,199.99,14,intel celeron,https://www.bestbuy.com/site/hp-14-laptop-intel-celeron-4gb-memory-64gb-emmc-snowflake-white/6499749.p?skuId=6499749
+hp,64,4,14,199.99,14,intel celeron,https://www.bestbuy.com/site/hp-14-laptop-intel-celeron-4gb-memory-64gb-emmc-rose-gold/6499942.p?skuId=6499942
+lenovo,512,8,14,749.99,yoga,intel core i5,https://www.bestbuy.com/site/lenovo-yoga-7i-14-2-2k-touch-2-in-1-laptop-intel-evo-platform-core-i5-1235u-8gb-memory-512gb-ssd-storm-grey/6502228.p?skuId=6502228
+hp,64,4,11.6,169.99,stream,intel celeron,https://www.bestbuy.com/site/hp-stream-11-6-laptop-intel-celeron-4gb-memory-64gb-emmc-diamond-white/6499940.p?skuId=6499940
+msi,1024,16,17.3,1499.99,stealth,intel core i9,https://www.bestbuy.com/site/msi-stealth-17-3-144hz-gaming-laptop-intel-core-i9-nvidia-geforce-rtx-3060-1tb-ssd-16gb-memory-black/6515436.p?skuId=6515436
+samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7,https://www.bestbuy.com/site/samsung-galaxy-book2-pro-360-2-in-1-15-6-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-1tb-ssd-silver/6501593.p?skuId=6501593
+apple,256,8,13.3,1099.00,m2,apple m2,https://www.bestbuy.com/site/macbook-pro-13-3-laptop-apple-m2-chip-8gb-memory-256gb-ssd-latest-model-space-gray/6509652.p?skuId=6509652
+hp,64,8,15.6,249.00,15.6,intel pentium,https://www.bestbuy.com/site/hp-15-6-laptop-intel-pentium-silver-8gb-memory-64gb-emmc-mineral-silver/6515546.p?skuId=6515546
+hp,64,4,14,199.99,14,intel celeron,https://www.bestbuy.com/site/hp-14-laptop-intel-celeron-4gb-memory-64gb-emmc-jet-black/6499753.p?skuId=6499753
+samsung,512,16,13.3,1099.99,galaxy book2,intel core i7,https://www.bestbuy.com/site/samsung-galaxy-book2-pro-360-2-in-1-13-3-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-512-gb-ssd-silver/6501579.p?skuId=6501579
+hp,512,16,15.6,649.99,15.6,intel core i7,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver/6477889.p?skuId=6477889
+hp,512,8,15.6,499.99,15.6,intel core i5,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i5-8gb-memory-512gb-ssd-natural-silver/6510527.p?skuId=6510527
+alienware,1024,16,17.3,1899.99,m17,amd ryzen 9,https://www.bestbuy.com/site/alienware-m17-r5-17-3-360hz-fhd-gaming-laptop-amd-ryzen-9-16gb-memory-nvidia-geforce-rtx-3070-ti-1tb-ssd-dark-side-of-the-moon/6510325.p?skuId=6510325
+hp,64,4,14,369.00,2,intel celeron,https://www.bestbuy.com/site/hp-2-in-1-14-touch-screen-chromebook-intel-celeron-4gb-memory-64gb-emmc-natural-silver/6504562.p?skuId=6504562
+samsung,1024,16,15.6,999.99,galaxy book,intel core i7,https://www.bestbuy.com/site/samsung-galaxy-book-pro-360-15-6-amoled-touch-screen-laptop-intel-evo-platform-core-i7-16gb-memory-1tb-ssd-mystic-navy/6457790.p?skuId=6457790
+hp,64,4,14,249.00,chromebook ,intel celeron,https://www.bestbuy.com/site/hp-14-chromebook-intel-celeron-4gb-memory-64gb-emmc-modern-gray/6513217.p?skuId=6513217
+dell,512,16,14,749.99,inspiron,amd ryzen 7,https://www.bestbuy.com/site/dell-inspiron-2-in-1-14-fhd-touch-laptop-amd-ryzen-7-16gb-memory-512gb-ssd-pebble-green/6503233.p?skuId=6503233
+microsoft,256,8,13.5,749.99,surface laptop 4,amd ryzen 5,https://www.bestbuy.com/site/microsoft-surface-laptop-4-13-5-touch-screen-amd-ryzen-5-surface-edition-8gb-memory-256gb-solid-state-drive-platinum/6455189.p?skuId=6455189
+asus,1024,16,14,1199.99,rog,amd ryzen 9,https://www.bestbuy.com/site/asus-rog-zephyrus-14-wqxga-120hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-amd-radeon-rx-6700s-1tb-pcie-4-0-ssd/6494638.p?skuId=6494638
+asus,1024,16,16,1749.99,rog,intel core i9,https://www.bestbuy.com/site/asus-rog-zephyrus-16-wqxga-165hz-gaming-laptop-intel-core-i9-16gb-ddr5-memory-nvidia-geforce-rtx-3070-ti-1tb-pcie-4-0-ssd-off-black/6494637.p?skuId=6494637
+asus,512,8,15.6,879.99,tuf,amd ryzen 7,https://www.bestbuy.com/site/asus-tuf-gaming-a15-15-6-fhd-144hz-gaming-laptop-amd-ryzen-7-8gb-ddr5-memory-nvidia-geforce-rtx-3050-ti-512gb-pcie-ssd/6501561.p?skuId=6501561
+microsoft,256,8,15,949.99,surface laptop 4,amd ryzen 7,https://www.bestbuy.com/site/microsoft-surface-laptop-4-15-touch-screen-amd-ryzen-7-surface-edition-8gb-memory-256gb-solid-state-drive-platinum/6455193.p?skuId=6455193
+hp omen,512,16,16.1,1099.99,16.1,amd ryzen 7,https://www.bestbuy.com/site/hp-omen-16-1-laptop-amd-ryzen-7-6800h-16gb-memory-nvidia-geforce-rtx-3060-512gb-ssd-mica-silver/6504415.p?skuId=6504415
+microsoft,512,16,14.4,1899.99,surface laptop studio,intel core i7,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3050-ti-512gb-ssd-platinum/6478302.p?skuId=6478302
+samsung,128,4,12.4,369.00,galaxy chromebook,intel celeron,https://www.bestbuy.com/site/samsung-galaxy-chromebook-2-360-12-4-led-2-in-1-touch-screen-laptop-intel-celeron-4gb-memory-intel-uhd-graphics-128gb-silver/6502057.p?skuId=6502057
+acer,512,16,15.6,849.99,nitro,intel core i5,https://www.bestbuy.com/site/acer-nitro-5-15-6-fhd-gaming-laptop-intel-core-i5-nvidia-geforce-rtx-3050-ti-16gb-ddr4-512gb-gen-4-ssd-black/6504566.p?skuId=6504566
+lenovo,1024,16,16,1749.99,legion,amd ryzen 9,https://www.bestbuy.com/site/lenovo-legion-slim-7-amd-advantage-edition-16-wqxga-gaming-laptop-amd-ryzen-9-6900hx-16gb-memory-amd-radeon-rx-6800s-1tb-ssd-onyx-grey/6504422.p?skuId=6504422
+hp,512,8,15.6,767.99,pavilion,intel core i5,https://www.bestbuy.com/site/hp-pavilion-15-6-laptop-intel-core-i5-1235u-8gb-memory-512gb-ssd-natural-silver/6511220.p?skuId=6511220
+msi,1024,16,15.6,999.99,sword,intel core i7,https://www.bestbuy.com/site/msi-sword-15-6-144hz-gaming-laptop-intel-core-i7-nvidia-geforce-rtx-3060-1tb-ssd-16gb-memory-black/6496176.p?skuId=6496176
+lg,512,16,17,1299.99,ultrapc,intel core i7,https://www.bestbuy.com/site/lg-ultrapc-17-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3050-ti-512gb-solid-state-drive/6504764.p?skuId=6504764
+apple,512,8,13.3,1299.00,m2,apple m2,https://www.bestbuy.com/site/macbook-pro-13-3-laptop-apple-m2-chip-8gb-memory-512gb-ssd-latest-model-space-gray/6509653.p?skuId=6509653
+microsoft,128,8,12.3,699.99,surface pro,intel core i3,https://www.bestbuy.com/site/microsoft-surface-pro-7-12-3-touch-screen-intel-core-i3-8gb-memory-128gb-ssd-with-black-type-cover-latest-model-platinum/6482181.p?skuId=6482181
+asus,1024,16,14,1399.99,rog,amd ryzen 9,https://www.bestbuy.com/site/asus-rog-zephyrus-14-wqxga-120hz-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-amd-radeon-rx-6800s-1tb-pcie-4-0-ssd-moonlight-white/6494639.p?skuId=6494639
+msi,1024,16,17.3,1399.99,stealth,intel core i7,https://www.bestbuy.com/site/msi-stealth-17-3-144hz-gaming-laptop-intel-core-i7-nvidia-geforce-rtx-3060-1tb-ssd-16gb-memory-black/6496178.p?skuId=6496178
+samsung,256,8,13.3,749.99,galaxy book2,intel core i5,https://www.bestbuy.com/site/samsung-galaxy-book2-360-13-3-amoled-touch-screen-laptop-intel-12th-gen-core-i5-evo-platform-8gb-memory-256gb-ssd-graphite/6501585.p?skuId=6501585
+lenovo,512,16,14,949.99,yoga,intel core i7,https://www.bestbuy.com/site/lenovo-yoga-7i-14-2-2k-touch-2-in-1-laptop-intel-evo-platform-core-i7-1255u-16gb-memory-512gb-ssd-stone-blue/6502222.p?skuId=6502222
+acer,256,8,14.0,579.00,chromebook spin,intel core i5,https://www.bestbuy.com/site/acer-chromebook-spin-714-laptop-14-0-2-in-1-touchscreen-intel-evo-core-i5-8gb-256gb-ssd-slate-blue/6507836.p?skuId=6507836
+lenovo,64,4,14,269.00,chromebook 3,mediatek,https://www.bestbuy.com/site/lenovo-chromebook-3-14-touch-laptop-mediatek-mt8183-4gb-memory-64gb-emmc-arctic-grey/6447140.p?skuId=6447140
+apple,512,16,16,2299.00,m1,apple m1,https://www.bestbuy.com/site/macbook-pro-16-laptop-apple-m1-pro-chip-16gb-memory-512gb-ssd-space-gray/6450858.p?skuId=6450858
+apple,1024,16,16,2499.00,m1,apple m1,https://www.bestbuy.com/site/macbook-pro-16-laptop-apple-m1-pro-chip-16gb-memory-1tb-ssd-space-gray/6450859.p?skuId=6450859
+samsung,64,4,15.6,249.00,chromebook ,intel celeron,https://www.bestbuy.com/site/samsung-15-6-chromebook-intel-celeron-4gb-memory-64gb-emmc-flash-memory-platinum-titan/6503860.p?skuId=6503860
+apple,512,16,14,1899.00,m1,apple m1,https://www.bestbuy.com/site/macbook-pro-14-laptop-apple-m1-pro-chip-16gb-memory-512gb-ssd-space-gray/6450853.p?skuId=6450853
+microsoft,256,16,14.4,1299.00,surface laptop studio,intel core i5,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i5-16gb-memory-256gb-ssd-platinum/6478305.p?skuId=6478305
+asus,64,4,17.3,329.00,chromebook ,intel celeron,https://www.bestbuy.com/site/asus-17-3-chromebook-intel-celeron-n4500-4gb-memory-64gb-emmc-transparent-silver/6504419.p?skuId=6504419
+acer,512,16,15.6,1299.99,predator,intel core i7,https://www.bestbuy.com/site/acer-predator-helios-300-15-6-fhd-165hz-gaming-laptop-intel-core-i7-16gb-ddr5-nvidia-geforce-rtx-3060-512gb-ssd/6504563.p?skuId=6504563
+acer,128,8,14.0,429.00,chromebook spin,amd ryzen 3,https://www.bestbuy.com/site/acer-chromebook-spin-514-laptop-14-0-full-hd-2-in-1-touchscreen-amd-ryzen-3-5125c-8gb-128gb-wifi-6-silver/6513115.p?skuId=6513115
+lenovo,512,16,16,1199.99,legion,amd ryzen 7,https://www.bestbuy.com/site/lenovo-legion-5-pro-16-wqxga-gaming-laptop-ryzen-7-6800h-16gb-memory-nvidia-geforce-rtx-3050-ti-512gb-ssd-storm-grey/6504429.p?skuId=6504429
+asus,512,16,14,1099.99,rog,amd ryzen 7,https://www.bestbuy.com/site/asus-rog-zephyrus-14-fhd-144hz-gaming-laptop-amd-ryzen-7-16gb-ddr4-memory-nvidia-geforce-rtx-3060-512gb-pcie-ssd-moonlight-white/6494633.p?skuId=6494633
+microsoft,128,8,10.5,499.99,surface go,intel pentium,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-pentium-gold-8gb-memory-128gb-ssd-device-only-latest-model-matte-black/6490629.p?skuId=6490629
+acer,1024,16,15.6,1599.99,predator,intel core i7,https://www.bestbuy.com/site/acer-predator-helios-300-15-6-qhd-240hz-gaming-laptop-intel-core-i7-16gb-ddr5-nvidia-geforce-rtx-3070-ti-1tb-ssd/6504564.p?skuId=6504564
+asus,512,8,17.3,799.99,tuf,intel core i5,https://www.bestbuy.com/site/asus-tuf-gaming-17-3-laptop-intel-core-i5-8gb-memory-nvidia-geforce-rtx-3050-ti-512gb-ssd-eclipse-gray/6485599.p?skuId=6485599
+alienware,512,16,15.6,1699.99,m15,amd ryzen 7,https://www.bestbuy.com/site/alienware-m15-r7-15-6-qhd-240hz-gaming-laptop-amd-ryzen-7-16gb-memory-nvidia-geforce-rtx-3070-ti-512gb-ssd-dark-side-of-the-moon/6510330.p?skuId=6510330
+msi,512,8,15.6,899.99,sword,intel core i7,https://www.bestbuy.com/site/msi-sword-15-6-gaming-laptop-intel-core-i7-nvidia-geforce-rtx-3050-ti-512gb-ssd-8gb-memory-black/6464556.p?skuId=6464556
+microsoft,1024,32,14.4,2200.00,surface laptop studio,intel core i7,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i7-32gb-memory-nvidia-geforce-rtx-3050-ti-1tb-ssd-platinum/6478303.p?skuId=6478303
+dell,1024,16,16.0,1099.99,g16,intel core i7,https://www.bestbuy.com/site/dell-g16-16-0-qhd-165hz-gaming-laptop-12th-generation-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3060-1tb-ssd-obsidian-black/6519388.p?skuId=6519388
+asus,1024,16,16,1749.99,rog,amd ryzen 9,https://www.bestbuy.com/site/asus-rog-16-touchscreen-gaming-laptop-amd-ryzen-9-16gb-ddr5-memory-nvidia-geforce-rtx-3060-v6g-graphics-1tb-ssd-off-black/6507909.p?skuId=6507909
+alienware,1024,16,15.6,2199.99,x15,intel core i7,https://www.bestbuy.com/site/alienware-x15-r2-15-6-fhd-gaming-laptop-12th-gen-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3070-ti-1tb-ssd-lunar-light/6512742.p?skuId=6512742
+asus,512,8,15.6,679.99,tuf,intel core i5,https://www.bestbuy.com/site/asus-tuf-gaming-15-6-laptop-intel-core-i5-8gb-memory-nvidia-geforce-rtx-3050-512gb-ssd-eclipse-gray/6512281.p?skuId=6512281
+alienware,512,16,15.6,1799.99,x15,intel core i7,https://www.bestbuy.com/site/alienware-x15-r1-15-6-fhd-gaming-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-3070-512gb-solid-state-drive-white-lunar-light/6464984.p?skuId=6464984
+microsoft,1024,16,13,1945.00,surface pro,intel core i7,https://www.bestbuy.com/site/microsoft-surface-pro-9-13-touch-screen-intel-evo-platform-core-i7-16gb-memory-1tbssd-device-only-latest-model-platinum/6517642.p?skuId=6517642
+asus,1024,16,15.6,1899.99,rog,amd ryzen 9,https://www.bestbuy.com/site/asus-rog-zephyrus-15-6-qhd-gaming-laptop-amd-ryzen-9-16gb-memory-nvidia-geforce-rtx-3080-1tb-ssd-eclipse-gray/6477441.p?skuId=6477441
+microsoft,128,8,10.5,499.99,surface go,intel pentium,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-pentium-gold-8gb-memory-128gb-ssd-device-only-latest-model-platinum/6478762.p?skuId=6478762
+microsoft,128,8,10.5,579.99,surface go,intel core i3,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-core-i3-8gb-memory-128gb-ssd-device-only-latest-model-platinum/6478761.p?skuId=6478761
+razer,1024,16,14,2210.99,blade 14,amd ryzen 9,https://www.bestbuy.com/site/razer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6499098.p?skuId=6499098
+samsung,64,4,13.3,449.00,galaxy chromebook,intel celeron,https://www.bestbuy.com/site/samsung-galaxy-chromebook-2-13-3-qled-touch-screen-intel-celeron-4gb-memory-64gb-emmc-mercury-gray/6450561.p?skuId=6450561
+apple,1024,32,16,3299.00,m1,apple m1,https://www.bestbuy.com/site/macbook-pro-16-laptop-apple-m1-max-chip-32gb-memory-1tb-ssd-space-gray/6450860.p?skuId=6450860
+hp,256,4,15.6,436.99,15.6,intel pentium,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-pentium-gold-7505-4gb-memory-256gb-ssd-spruce-blue/6507409.p?skuId=6507409
+microsoft,512,16,14.4,1599.99,surface laptop studio,intel core i5,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i5-16gb-memory-512gb-ssd-platinum/6478304.p?skuId=6478304
+acer,256,8,14,499.99,chromebook green,intel core i5 1235u,https://www.bestbuy.com/site/acer-vero-514-chromebook-green-pc-laptop-14-fhd-ips-intel-core-i51235u-8gb-lpddrx-memory-256gb-ssd/6523811.p?skuId=6523811
+samsung,1024,16,15.6,1149.99,galaxy book2,intel core i7,https://www.bestbuy.com/site/samsung-galaxy-book2-pro-360-2-in-1-15-6-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-1tb-ssd-burgundy/6501592.p?skuId=6501592
+samsung,512,16,13.3,749.99,galaxy book,intel core i7,https://www.bestbuy.com/site/samsung-geek-squad-certi-refurbis-galaxy-book-flex2-alpha-13-3-qled-touch-scrn-laptop-intel-core-i7-16gb-memory-512gb-ssd-mystic-black/6508352.p?skuId=6508352
+lg,2048,32,17,1799.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-17-ultra-lightweight-laptop-intel-evo-platform-12th-gen-intel-core-i7-32gb-ram-2tb-nvme-ssd/6504765.p?skuId=6504765
+lg,2048,16,16,1499.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-2-in-1-16-wqxga-laptop-intel-evo-platform-core-i7-16gb-ram-2tb-nvme-solid-state-drive/6504757.p?skuId=6504757
+razer,1024,16,15.6,2599.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6499095.p?skuId=6499095
+razer,1024,32,15.6,3263.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6499097.p?skuId=6499097
+microsoft,512,8,15,799.99,surface laptop 4,amd ryzen 7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-15-touch-screen-laptop-amd-ryzen-7-8gb-memory-512gb-ssd-matte-black/6463621.p?skuId=6463621
+asus,0,16,15.6,1199.99,zenbook,amd ryzen 9,https://www.bestbuy.com/site/asus-zenbook-pro-15-6-touch-screen-laptop-amd-ryzen-9-16-gb-memory-nvidia-geforce-rtx-3050-ti-pine-gray/6494580.p?skuId=6494580
+microsoft,256,8,15,624.99,surface laptop 4,amd ryzen 7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-15-touch-screen-laptop-amd-ryzen-7-8gb-memory-256gb-ssd-platinum/6463623.p?skuId=6463623
+asus,1024,32,14,1899.99,zenbook,intel core i9,https://www.bestbuy.com/site/asus-zenbook-14x-oled-ux5400-14-laptop-intel-core-i9-32-gb-memory-1-tb-ssd-zero-g-titanium/6511431.p?skuId=6511431
+microsoft,128,8,10.5,579.99,surface go,intel core i3,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-core-i3-8gb-memory-128gb-ssd-device-only-latest-model-matte-black/6490631.p?skuId=6490631
+microsoft,128,8,10.5,679.99,surface go,intel core i3,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-core-i3-8gb-memory-128gb-ssd-wifi-lte-device-only-latest-model-matte-black/6490639.p?skuId=6490639
+msi,512,16,14,1099.99,prestige,intel core i7,https://www.bestbuy.com/site/msi-prestige-14-14-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-gtx-1650-512-gb-ssd-carbon-gray/6501331.p?skuId=6501331
+razer,1024,32,17.3,3699.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6504374.p?skuId=6504374
+microsoft,256,8,13.5,729.99,surface laptop 3,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-2-in-1-13-5-touch-screen-intel-core-i5-8gb-memory-256gb-ssd-platinum/6463535.p?skuId=6463535
+msi,1024,32,17.3,3499.99,raider,intel core i9,https://www.bestbuy.com/site/msi-raider-ge77-hx-17-3-gaming-laptop-intel-core-i9-32gb-memory-1-tb-ssd-dark-gray/6516320.p?skuId=6516320
+razer,1024,16,15.6,2199.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3060-16gb-ram-1tb-ssd-black/6504371.p?skuId=6504371
+lg,1024,16,14,1572.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-2-in-1-14-wuxga-laptop-intel-evo-platform-core-i7-16gb-ram-1tb-nvme-solid-state-drive/6504761.p?skuId=6504761
+lg,2048,16,16,1499.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-2-in-1-16-wqxga-laptop-intel-evo-platform-core-i7-16gb-ram-2tb-nvme-solid-state-drive/6504756.p?skuId=6504756
+msi,1024,16,15.6,1699.99,pulse,intel core i9,https://www.bestbuy.com/site/msi-pulse-gl66-15-6-qhd-gaming-laptop-intel-core-i9-16gb-memory-1tb-ssd-black/6519675.p?skuId=6519675
+asus,32,4,14,219.99,chromebook ,intel celeron,https://www.bestbuy.com/site/asus-14-chromebook-intel-celeron-4gb-memory-32gb-emmc-flash-memory-silver/6466914.p?skuId=6466914
+msi,512,16,14,1199.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e14-evo-14-laptop-intel-core-i7-16-gb-memory-512-gb-ssd-ink-black/6502630.p?skuId=6502630
+msi,1024,16,16,2599.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-b12u-16-touch-screen-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-lunar-gray/6501172.p?skuId=6501172
+asus,32,4,15.6,209.99,chromebook ,intel celeron,https://www.bestbuy.com/site/asus-15-6-chromebook-intel-celeron-4gb-memory-32gb-emmc-flash-memory-silver/6304189.p?skuId=6304189
+microsoft,512,8,13.5,649.99,surface laptop 4,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-13-5-touch-screen-laptop-intel-core-i5-8gb-memory-512gb-ssd-ice-blue/6463632.p?skuId=6463632
+msi,1024,32,17.3,2499.99,17.3,intel core i7,https://www.bestbuy.com/site/msi-17-3-gaming-laptop-intel-core-i7-32-gb-memory-nvidia-rtx-a3000-1-tb-ssd-titanium-blue/6469409.p?skuId=6469409
+razer,1024,16,15.6,2399.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-fhd-360hz-intel-core-i7-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6504365.p?skuId=6504365
+msi,1024,32,15.6,2299.99,ge66,intel core i7,https://www.bestbuy.com/site/msi-ge66-raider-15-6-gaming-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-titanium-blue/6501180.p?skuId=6501180
+msi,512,16,15.6,1499.99,pulse,intel core i7,https://www.bestbuy.com/site/msi-pulse-gl66-15-6-gaming-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3060-512-gb-ssd-black/6501186.p?skuId=6501186
+asus,1024,16,14,1549.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b9-14-laptop-intel-evo-platform-core-i7-16gb-memory-1tb-ssd-star-black/6436226.p?skuId=6436226
+msi,1024,32,17.3,2882.99,vector,intel core black,https://www.bestbuy.com/site/msi-vector-gp76-17-3-gaming-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3080-1-tb-ssd-core-black/6502647.p?skuId=6502647
+msi,1024,32,17.3,3899.99,stealth,intel core black,https://www.bestbuy.com/site/msi-stealth-gs77-17-3-gaming-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-core-black/6501187.p?skuId=6501187
+samsung,64,4,13.3,449.00,galaxy chromebook,intel celeron,https://www.bestbuy.com/site/samsung-galaxy-chromebook-2-13-3-qled-touch-screen-intel-celeron-4gb-memory-64gb-emmc-fiesta-red/6450560.p?skuId=6450560
+razer,1024,16,14,2399.99,blade 14,amd ryzen 9,https://www.bestbuy.com/site/razer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-5900hx-nvidia-geforce-rtx-3080-16gb-ram-1tb-ssd-black/6469121.p?skuId=6469121
+microsoft,2048,32,14.4,2799.99,surface laptop studio,intel core i7,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i7-32gb-memory-nvidia-geforce-rtx-3050-ti-2tb-ssd-platinum/6478306.p?skuId=6478306
+lenovo,512,8,13.3,649.99,yoga,amd ryzen 5,https://www.bestbuy.com/site/lenovo-yoga-6-13-3-touchscreen-wuxga-notebook-amd-ryzen-5-8gb-memory-512gb-ssd-dark-teal/6523148.p?skuId=6523148
+lg,1024,32,15,1499.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-15-touchscreen-ultra-lightweight-laptop-intel-platform-12th-gen-intel-core-i7-32gb-ram-1tb-nvme-ssd/6504763.p?skuId=6504763
+hp,512,8,15.6,685.99,pavilion,amd ryzen 5,https://www.bestbuy.com/site/hp-pavilion-15-6-touch-screen-laptop-amd-ryzen-5-5500u-8gb-memory-512gb-ssd/6462050.p?skuId=6462050
+asus,1024,32,15.6,2626.99,zenbook,intel core i9,https://www.bestbuy.com/site/asus-zenbook-pro-duo-15-ux582-15-6-touch-screen-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3060-1-tb-ssd-celestial-blue/6492151.p?skuId=6492151
+microsoft,512,8,13.5,720.99,surface laptop 4,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-13-5-touch-screen-intel-core-i5-8gb-memory-512gb-ssd-sandstone/6463620.p?skuId=6463620
+hp,256,8,14,689.99,pavilion,intel core i5,https://www.bestbuy.com/site/hp-pavilion-x360-2-in-1-14-touch-screen-laptop--intel-core-i5-1235u-8gb-memory-256gb-ssd-natural-silver/6505064.p?skuId=6505064
+microsoft,256,8,13.5,649.99,surface laptop 4,amd ryzen 5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-13-5-touch-screen-amd-ryzen-5-8gb-memory-256gb-ssd-platinum/6463619.p?skuId=6463619
+razer,1024,16,15.6,2899.99,blade 15,intel core i9,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-oled-qhd-240hz-intel-core-i9-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6520867.p?skuId=6520867
+msi,1024,32,16,3699.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-16-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-lunar-gray/6501196.p?skuId=6501196
+msi,1024,16,15.6,2133.99,raider,intel core i7,https://www.bestbuy.com/site/msi-raider-15-6-oled-qhd-gaming-laptop-intel-core-i7-16gb-memory-1tb-ssd-dark-grey/6522204.p?skuId=6522204
+apple,512,16,13,1016.99,pre,intel core i5,https://www.bestbuy.com/site/apple-pre-owned-macbook-pro-13-laptop-intel-core-i5-2-0ghz-touch-bar-id-16gb-memory-512gb-ssd-2020-space-gray/6475715.p?skuId=6475715
+samsung,128,8,13.3,494.99,galaxy chromebook,intel core i3,https://www.bestbuy.com/site/samsung-geek-squad-certified-refurbished-galaxy-chromebook-2-13-3-qled-touch-screen-intel-core-i3-8gb-memory-128gb-emmc-fiesta-red/6470917.p?skuId=6470917
+msi,512,16,16,1499.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-a12u-16-touch-screen-2-in-1-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-512-gb-ink-black/6501189.p?skuId=6501189
+hp,512,8,14,749.99,pavilion,intel core i5,https://www.bestbuy.com/site/hp-pavilion-14-laptop-intel-core-i5-1240p-8gb-memory-512gb-ssd-natural-silver/6507410.p?skuId=6507410
+microsoft,128,8,10.5,679.99,surface go,intel core i3,https://www.bestbuy.com/site/microsoft-surface-go-3-10-5-touch-screen-intel-core-i3-8gb-memory-128gb-ssd-wifi-lte-device-only-latest-model-platinum/6487608.p?skuId=6487608
+razer,1024,16,17.3,2699.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-fhd-360hz-intel-core-i7-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6504377.p?skuId=6504377
+msi,512,16,16,1249.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-evo-a12u-16-laptop-intel-core-i7-16-gb-memory-512-gb-ssd-ink-black/6501206.p?skuId=6501206
+razer,1024,32,15.6,3099.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-fhd-360hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6504372.p?skuId=6504372
+razer,1024,16,14,2099.99,blade 14,amd ryzen 9,https://www.bestbuy.com/site/razer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-mercury/6527461.p?skuId=6527461
+razer,1024,16,14,1899.99,blade 14,amd ryzen 9,https://www.bestbuy.com/site/razer-blade-14-14-gaming-laptop-fhd-144hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3060-16gb-ram-1tb-ssd-black/6527460.p?skuId=6527460
+hp,0,8,15.6,979.99,victus,intel core i5,https://www.bestbuy.com/site/hp-victus-15-6-gaming-laptop--intel-core-i5-12500h-8gb-memory--nvidia-geforce-rtx-3050-ti--512gb-ssd-mica-silver/6511228.p?skuId=6511228
+razer,1024,32,17.3,3499.99,blade 17,intel core i9,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-uhd-144hz-intel-core-i9-nvidia-geforce-rtx-3070-ti-32gb-ram-1tb-ssd-black/6511855.p?skuId=6511855
+asus,2048,32,14,1849.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b9-14-laptop-intel-evo-platform-core-i7-32gb-memory-2tb-ssd-star-black/6436228.p?skuId=6436228
+msi,1024,32,15.6,3799.99,ge66,intel core i9,https://www.bestbuy.com/site/msi-ge66-raider-15-6-gaming-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-titanium-blue/6502637.p?skuId=6502637
+msi,1024,32,16,3049.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-b12u-16-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3080-1-tb-ssd-lunar-gray/6501179.p?skuId=6501179
+msi,1024,32,17.3,2299.99,ws76,intel core i7,https://www.bestbuy.com/site/msi-ws76-17-3-laptop-intel-core-i7-32gb-memory-nvidia-quadro-rtx-a3000-1-tb-ssd-black/6498810.p?skuId=6498810
+msi,512,16,16,1099.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-m16-16-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-512-gb-ssd-black/6491549.p?skuId=6491549
+msi,512,16,17.3,1299.99,wf76,intel core i7,https://www.bestbuy.com/site/msi-wf76-17-3-laptop-intel-core-i7-16-gb-memory-nvidia-quadro-t1200-512gb-ssd-black/6492144.p?skuId=6492144
+razer,1024,16,17.3,3099.99,blade 17,intel core i9,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i9-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6511851.p?skuId=6511851
+hp omen,512,16,16.1,1719.99,16.1,intel core i7,https://www.bestbuy.com/site/hp-omen-16-1-laptop-intel-core-i7-12700h-16gb-memory-nvidia-geforce-rtx-3070-512gb-ssd-shadow-black/6527265.p?skuId=6527265
+msi,1024,16,15.6,1499.99,delta,amd ryzen 7,https://www.bestbuy.com/site/msi-delta-15-6-gaming-laptop-amd-ryzen-7-16gb-memory-1tb-ssd-carbon-gray/6522216.p?skuId=6522216
+acer,128,8,14,429.00,chromebook spin,amd ryzen 5,https://www.bestbuy.com/site/acer-chromebook-spin-514-convertible-14-full-hd-touch-amd-ryzen-5-3500c-8gb-ddr4-128gb-emmc-hdmi-mist-green/6454181.p?skuId=6454181
+hp,256,4,15.6,438.99,15.6,intel pentium,https://www.bestbuy.com/site/hp-15-6-laptop-intel-pentium-gold-7505-4gb-memory-256gb-ssd-pale-gold/6503897.p?skuId=6503897
+msi,512,8,15.6,749.99,thin,intel core i5,https://www.bestbuy.com/site/msi-thin-gf63-12001-15-6-notebook-intel-core-i5-12450h-8gb-memory-512gb-ssd-black/6514472.p?skuId=6514472
+asus,1024,32,13.3,1527.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b5-flip-b5302-13-3-laptop-intel-core-i7-32-gb-memory-1-tb-ssd-star-black/6492538.p?skuId=6492538
+razer,1024,32,17.3,3499.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-fhd-360hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6504370.p?skuId=6504370
+msi,1024,16,17.3,1599.99,vector,intel core black,https://www.bestbuy.com/site/msi-vector-gp76-17-3-gaming-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3060-1-tb-ssd-core-black/6501192.p?skuId=6501192
+asus,512,16,15.6,1014.99,vivobook,amd ryzen 7,https://www.bestbuy.com/site/asus-vivobook-pro-15-oled-m3500-15-6-laptop-amd-ryzen-7-16-gb-memory-512-gb-ssd-quiet-blue/6503034.p?skuId=6503034
+gigabyte,1024,16,15.6,1299.99,aorus,intel core i7,https://www.bestbuy.com/site/gigabyte-aorus-15-6-ips-240hz-gaming-laptop-intel-core-i7-11800h-16gb-memory-nvidia-geforce-rtx-3070-1tb-ssd/6498270.p?skuId=6498270
+razer,1024,16,13.4,1619.99,book,intel core i7,https://www.bestbuy.com/site/razer-book-13-4-uhd-touch-screen-laptop-intel-evo-platform-intel-core-i7-16gb-memory-1tb-ssd-mercury/6485751.p?skuId=6485751
+asus,256,16,15.6,880.99,expertbook,intel core i5,https://www.bestbuy.com/site/asus-expertbook-b1-15-6-laptop-intel-core-i5-16-gb-memory-256-gb-ssd-star-black/6494579.p?skuId=6494579
+asus,512,16,15.6,1683.99,strix,intel core i9,https://www.bestbuy.com/site/asus-strix-scar-15-g533-15-6-gaming-laptop-intel-core-i9-16-gb-memory-nvidia-geforce-rtx-3060-512-gb-ssd-off-black/6507939.p?skuId=6507939
+razer,512,16,13.4,1459.99,book,intel core i7,https://www.bestbuy.com/site/razer-book-13-4-uhd-touch-screen-laptop-intel-evo-platform-intel-core-i7-16gb-memory-512gb-ssd-mercury/6442337.p?skuId=6442337
+msi,512,16,15.6,1299.99,prestige,intel core i7,https://www.bestbuy.com/site/msi-prestige-15-15-6-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-ti-512-gb-ssd-carbon-gray/6501328.p?skuId=6501328
+msi,1024,32,17.3,3399.99,stealth,intel core black,https://www.bestbuy.com/site/msi-stealth-gs77-17-3-gaming-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-core-black/6502639.p?skuId=6502639
+msi,1024,32,17.3,2299.99,vector,intel core black,https://www.bestbuy.com/site/msi-vector-gp76-17-3-gaming-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-core-black/6502653.p?skuId=6502653
+asus,256,8,14,842.99,expertbook,intel core i5,https://www.bestbuy.com/site/asus-expertbook-b1-b1400-14-laptop-intel-core-i5-8-gb-memory-256-gb-ssd-star-black/6480124.p?skuId=6480124
+microsoft,256,8,15,1147.99,surface 3,amd ryzen 5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-3-15-touch-screen-laptop-amd-ryzen-5-8gb-memory-256gb-ssd-matte-black/6463415.p?skuId=6463415
+asus,512,16,16,1136.99,vivobook,intel core i7,https://www.bestbuy.com/site/asus-vivobook-16-oled-laptop-intel-core-i7-12700h-16gb-memory-512gb-ssd-quiet-blue/6521257.p?skuId=6521257
+msi,512,16,14,1199.99,prestige,intel core i7,https://www.bestbuy.com/site/msi-prestige-14-14-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-512-gb-ssd-carbon-gray/6501335.p?skuId=6501335
+msi,1024,32,17,2989.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z17-a12u-17-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-lunar-gray/6501177.p?skuId=6501177
+msi,1024,16,17.3,1799.99,wf76,intel core i7,https://www.bestbuy.com/site/msi-wf76-17-3-laptop-intel-core-i7-16gb-memory-nvidia-quadro-a2000-1-tb-ssd-black/6491543.p?skuId=6491543
+msi,512,16,17.3,1499.99,pulse,intel core i7,https://www.bestbuy.com/site/msi-pulse-gl76-17-3-gaming-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3060-512-gb-ssd-black/6501213.p?skuId=6501213
+msi,512,16,15.6,1099.99,prestige,intel core i5,https://www.bestbuy.com/site/msi-prestige-15-15-6-laptop-intel-core-i5-16-gb-memory-nvidia-geforce-gtx-1650-512-gb-ssd-carbon-gray/6501326.p?skuId=6501326
+msi,1024,16,15.6,1699.99,wf66,intel core i7,https://www.bestbuy.com/site/msi-wf66-15-6-laptop-intel-core-i7-16gb-memory-nvidia-quadro-a2000-1tb-ssd-black/6469407.p?skuId=6469407
+razer,1024,16,17.3,2899.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6504375.p?skuId=6504375
+samsung,512,16,13.3,1099.99,galaxy book2,intel core i7,https://www.bestbuy.com/site/samsung-galaxy-book2-pro-360-2-in-1-13-3-amoled-touch-screen-laptop-intel-12th-gen-evo-core-i7-16gb-ddr5-memory-512gb-ssd-burgundy/6501578.p?skuId=6501578
+msi,1024,16,14,1499.99,14,intel core i7,https://www.bestbuy.com/site/msi-14-laptop-intel-core-i7-16-gb-memory-1-tb-ssd-ink-black/6502646.p?skuId=6502646
+dell,256,16,13.3,863.99,geek,intel core i7,https://www.bestbuy.com/site/dell-geek-squad-certified-refurbished-inspiron-13-3-4k-ultra-hd-touch-screen-laptop-intel-core-i7-16gb-memory-256gb-ssd-black/6410975.p?skuId=6410975
+msi,512,16,15.6,1149.99,prestige,intel core i5,https://www.bestbuy.com/site/msi-prestige-15-15-6-laptop-intel-core-i5-16-gb-memory-nvidia-geforce-gtx-1650-max-q-512-gb-ssd-carbon-gray/6491548.p?skuId=6491548
+msi,512,16,16,1449.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-16-laptop-intel-core-i7-16-gb-memory-512-gb-ssd-ink-black/6474948.p?skuId=6474948
+msi,512,16,13.4,1349.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e13-flip-evo-13-4-laptop-intel-core-i7-16-gb-memory-512-gb-ssd-ink-black/6501327.p?skuId=6501327
+msi,1024,16,17.3,1692.99,katana,intel core i7,https://www.bestbuy.com/site/msi-katana-gf76-17-3-gaming-laptop-intel-core-i7-16-gb-memory-1-tb-ssd-black/6516328.p?skuId=6516328
+msi,512,16,17.3,1699.99,pulse,intel core i7,https://www.bestbuy.com/site/msi-pulse-gl76-17-3-gaming-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3070-512-gb-ssd-black/6502640.p?skuId=6502640
+msi,1024,16,16,2529.99,creator,intel core i9,https://www.bestbuy.com/site/msi-creator-z16-16-touch-screen-laptop-intel-core-i9-16-gb-memory-nvidia-geforce-rtx-3060-1-tb-ssd-lunar-gray/6501199.p?skuId=6501199
+msi,512,16,13.4,1099.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e13-flip-evo-13-4-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-pure-white/6491539.p?skuId=6491539
+msi,1024,16,15.6,2499.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-15-15-6-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3080-1-tb-ssd-black/6491558.p?skuId=6491558
+msi,1024,16,16,1749.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-16-touch-screen-2-in-1-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-1-tb-ssd-ink-black/6474949.p?skuId=6474949
+microsoft,256,8,13.5,1147.99,surface book,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-book-2-13-5-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-platinum/6410984.p?skuId=6410984
+razer,1024,16,17.3,2599.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3060-16gb-ram-1tb-ssd-black/6511850.p?skuId=6511850
+asus,1024,16,15.6,1259.99,geek,intel core i7,https://www.bestbuy.com/site/asus-geek-squad-certified-refurbished-rog-15-6-laptop-intel-core-i7-16gb-memory-nvidia-geforce-rtx-2060-1tb-ssd-brushed-black/6460258.p?skuId=6460258
+razer,1024,16,14,2799.99,blade 14,amd ryzen 9,https://www.bestbuy.com/site/razer-blade-14-14-gaming-laptop-qhd-165hz-amd-ryzen-9-6900hx-nvidia-geforce-rtx-3080ti-16gb-ram-1tb-ssd-black/6504373.p?skuId=6504373
+microsoft,512,32,15,2267.99,surface book,intel core i7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-book-3-15-touch-screen-intel-core-i7-32gb-memory-512gb-ssd-platinum/6463548.p?skuId=6463548
+msi,1024,16,16,1699.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-a12u-16-touch-screen-2-in-1-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-ti-1-tb-ink-black/6501198.p?skuId=6501198
+asus,512,8,14,875.99,expertbook,intel core i5,https://www.bestbuy.com/site/asus-expertbook-b1-b1400-14-laptop-intel-core-i5-8-gb-memory-512-gb-ssd-star-black/6499370.p?skuId=6499370
+asus,512,16,13.3,1210.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b5-13-3-laptop-intel-core-i7-16-gb-memory-512-gb-ssd-star-black/6494576.p?skuId=6494576
+msi,512,16,16,1249.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e16-flip-16-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-ink-black/6474950.p?skuId=6474950
+dell,256,8,15.6,597.99,inspiron,intel core i5,https://www.bestbuy.com/site/dell-inspiron-2-in-1-15-6-geek-squad-certified-refurbished-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-silver/6393768.p?skuId=6393768
+microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-13-5-touch-screen-intel-core-i5-8gb-memory-256gb-ssd-matte-black/6463420.p?skuId=6463420
+msi,512,16,13.4,1391.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e13-flip-evo-13-4-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-ink-black/6469414.p?skuId=6469414
+msi,1024,32,17.3,3799.99,17.3,intel core i9,https://www.bestbuy.com/site/msi-17-3-gaming-laptop-intel-core-i9-32gb-memory-nvidia-quadro-rtx-a5000-1tb-ssd-titanium-blue/6469408.p?skuId=6469408
+microsoft,512,16,15,1619.99,surface laptop 4,intel core i7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-15-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-matte-black/6463628.p?skuId=6463628
+msi,1024,16,17.3,2749.99,raider,intel core i7,https://www.bestbuy.com/site/msi-raider-17-3-gaming-laptop-intel-core-i7-16gb-memory-1tb-ssd-dark-grey/6522205.p?skuId=6522205
+asus,256,8,15.6,836.99,expertbook,intel core i5,https://www.bestbuy.com/site/asus-expertbook-b1-b1500-15-6-laptop-intel-core-i5-8-gb-memory-256-gb-ssd-star-black/6510088.p?skuId=6510088
+asus,512,16,13.3,1052.99,expertbook,intel core i5,https://www.bestbuy.com/site/asus-expertbook-b5-b5302-13-3-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-star-black/6480119.p?skuId=6480119
+microsoft,128,8,13.5,879.99,surface book,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-book-2-13-5-touch-screen-laptop-intel-core-i5-8gb-memory-128gb-ssd-platinum/6410930.p?skuId=6410930
+microsoft,512,8,13.5,900.99,surface laptop 4,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-13-5-touch-screen-intel-core-i5-8gb-memory-512gb-ssd-platinum/6463627.p?skuId=6463627
+microsoft,128,8,13.5,764.99,surface laptop 3,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-13-5-touch-screen-laptop-intel-core-i5-8gb-memory-128gb-ssd-platinum/6460065.p?skuId=6460065
+asus,128,4,14,382.99,geek,intel core m3,https://www.bestbuy.com/site/asus-geek-squad-certified-refurbished-imaginebook-14-laptop-intel-core-m3-4gb-memory-128gb-solid-state-drive-textured-white/6422425.p?skuId=6422425
+msi,512,16,16,2299.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16-16-touch-screen-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3060-512-gb-ssd-lunar-gray/6501190.p?skuId=6501190
+msi,512,16,14,1066.99,prestige,intel core i5,https://www.bestbuy.com/site/msi-prestige-14-evo-14-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-blue-stone/6501185.p?skuId=6501185
+asus,1024,16,13.3,1599.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b5-flip-b5302-13-3-laptop-intel-core-i7-16-gb-memory-1-tb-ssd-star-black/6480116.p?skuId=6480116
+msi,512,16,13.4,1249.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e13-flip-evo-13-4-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-ink-black/6501329.p?skuId=6501329
+msi,512,16,14,1099.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e14-evo-14-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-ink-black/6502628.p?skuId=6502628
+apple,256,8,13.3,1133.99,macbook air,intel core i5,https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-macbook-air-13-3-retina-display-intel-core-i5-8gb-memory-256gb-flash-storage-gold/6448363.p?skuId=6448363
+microsoft,256,8,15,1147.99,surface laptop 3,amd ryzen 5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-15-touch-screen-laptop-amd-ryzen-5-8gb-memory-256gb-ssd-platinum/6463321.p?skuId=6463321
+microsoft,256,8,13.5,994.99,surface laptop 3,intel core i5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-13-5-touch-screen-laptop-intel-core-i5-8gb-memory-256gb-ssd-sandstone/6460066.p?skuId=6460066
+microsoft,512,16,13.5,1912.99,surface book,intel core i7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-book-2-13-5-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-silver/6410927.p?skuId=6410927
+microsoft,512,16,15,1349.99,surface laptop 4,intel core i7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-4-15-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-platinum/6463626.p?skuId=6463626
+razer,512,16,13.3,1399.99,blade stealth,intel core i7,https://www.bestbuy.com/site/razer-geek-squad-certified-refurbished-blade-stealth-13-3-laptop-intel-core-i7-16gb-memory-gtx-1650-ti-max-q-512gb-ssd-black/6448266.p?skuId=6448266
+apple,256,8,13.3,1538.99,macbook pro,intel core i5,https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-macbook-pro-13-3-retina-display-intel-core-i5-8gb-memory-256gb-ssd-space-gray/6430508.p?skuId=6430508
+microsoft,512,16,15,1889.99,surface laptop 3,amd ryzen 7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-15-touch-screen-amd-ryzen-7-16gb-memory-512gb-ssd-platinum/6463413.p?skuId=6463413
+msi,512,16,13.4,1391.99,summit,intel core i5,https://www.bestbuy.com/site/msi-summit-e13-flip-evo-13-4-laptop-intel-core-i5-16-gb-memory-512-gb-ssd-ink-black/6486888.p?skuId=6486888
+hp,32,4,11.6,297.99,chromebook 11,intel celeron,https://www.bestbuy.com/site/hp-chromebook-11-g9-ee-11-6-chromebook-intel-celeron-4-gb-memory-32-gb-emmc-black/6495100.p?skuId=6495100
+microsoft,256,16,15,1300.99,surface laptop 3,amd ryzen 5,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-laptop-3-15-touch-screen-amd-ryzen-5-16gb-memory-256gb-ssd-matte-black/6463291.p?skuId=6463291
+apple,256,8,13,1214.99,macbook pro®,intel core i5,https://www.bestbuy.com/site/apple-geek-squad-certified-refurbished-macbook-pro-13-display-intel-core-i5-8-gb-memory-256gb-flash-storage-space-gray/6469035.p?skuId=6469035
+microsoft,256,16,13.5,1439.99,surface book,intel core i7,https://www.bestbuy.com/site/microsoft-geek-squad-certified-refurbished-surface-book-3-13-5-touch-screen-laptop-intel-core-i7-16gb-256gb-ssd-sandstone/6463422.p?skuId=6463422

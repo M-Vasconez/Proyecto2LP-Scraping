@@ -7,7 +7,7 @@ url1 = 'https://www.bestbuy.com/site/searchpage.jsp?_dyncharset=UTF-8&browsedCat
 
 File.delete('laptops.csv') if File.exist?('laptops.csv')
 CSV.open('laptops.csv', 'a') do |csv|
-  csv << %w[MARCA DISCO RAM PULGADAS PRECIO MODELO PROCESADOR]
+  csv << %w[MARCA DISCO RAM PULGADAS PRECIO MODELO PROCESADOR LINK]
 end
 
 def scrap(url)
@@ -185,7 +185,7 @@ class Laptop
   def guardar
     if (marca != '') && (disco != '') && (ram != '') && (pulg != '') && (precio != '') && (link != '') && (modelo != '') && (procesador != '')
       CSV.open('laptops.csv', 'a') do |csv|
-        csv << [@marca, @disco, @ram, @pulg, @precio, @modelo, @procesador]
+        csv << [@marca, @disco, @ram, @pulg, @precio, @modelo, @procesador, @link]
       end
     end
   end
