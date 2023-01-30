@@ -1,0 +1,11 @@
+,MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR,LINK,GAMA,PUNTUACION
+0,lg,2048,32,17.0,1799.99,gram,intel core i7,https://www.bestbuy.com/site/lg-gram-17-ultra-lightweight-laptop-intel-evo-platform-12th-gen-intel-core-i7-32gb-ram-2tb-nvme-ssd/6504765.p?skuId=6504765,media,13
+1,msi,1024,16,17.3,1692.99,katana,intel core i7,https://www.bestbuy.com/site/msi-katana-gf76-17-3-gaming-laptop-intel-core-i7-16-gb-memory-1-tb-ssd-black/6516328.p?skuId=6516328,media,30
+2,asus,2048,32,14.0,1849.99,expertbook,intel core i7,https://www.bestbuy.com/site/asus-expertbook-b9-14-laptop-intel-evo-platform-core-i7-32gb-memory-2tb-ssd-star-black/6436228.p?skuId=6436228,media,34
+3,asus,1024,32,14.0,1899.99,zenbook,intel core i9,https://www.bestbuy.com/site/asus-zenbook-14x-oled-ux5400-14-laptop-intel-core-i9-32-gb-memory-1-tb-ssd-zero-g-titanium/6511431.p?skuId=6511431,media,38
+4,msi,1024,16,15.6,1699.99,pulse,intel core i9,https://www.bestbuy.com/site/msi-pulse-gl66-15-6-qhd-gaming-laptop-intel-core-i9-16gb-memory-1tb-ssd-black/6519675.p?skuId=6519675,media,41
+5,asus,512,16,15.6,1683.99,strix,intel core i9,https://www.bestbuy.com/site/asus-strix-scar-15-g533-15-6-gaming-laptop-intel-core-i9-16-gb-memory-nvidia-geforce-rtx-3060-512-gb-ssd-off-black/6507939.p?skuId=6507939,media,47
+6,msi,1024,16,15.6,1699.99,wf66,intel core i7,https://www.bestbuy.com/site/msi-wf66-15-6-laptop-intel-core-i7-16gb-memory-nvidia-quadro-a2000-1tb-ssd-black/6469407.p?skuId=6469407,media,50
+7,asus,1024,16,16.0,1749.99,rog,intel core i9,https://www.bestbuy.com/site/asus-rog-zephyrus-16-wqxga-165hz-gaming-laptop-intel-core-i9-16gb-ddr5-memory-nvidia-geforce-rtx-3070-ti-1tb-pcie-4-0-ssd-off-black/6494637.p?skuId=6494637,media,53
+8,msi,1024,16,16.0,1699.99,summit,intel core i7,https://www.bestbuy.com/site/msi-summit-e16-flip-a12u-16-touch-screen-2-in-1-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3050-ti-1-tb-ink-black/6501198.p?skuId=6501198,media,53
+9,msi,1024,32,17.3,2299.99,ws76,intel core i7,https://www.bestbuy.com/site/msi-ws76-17-3-laptop-intel-core-i7-32gb-memory-nvidia-quadro-rtx-a3000-1-tb-ssd-black/6498810.p?skuId=6498810,media,56

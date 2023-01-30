@@ -1,0 +1,11 @@
+,MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR,LINK,GAMA,PUNTUACION
+0,msi,1024,32,17.3,2499.99,17.3,intel core i7,https://www.bestbuy.com/site/msi-17-3-gaming-laptop-intel-core-i7-32-gb-memory-nvidia-rtx-a3000-1-tb-ssd-titanium-blue/6469409.p?skuId=6469409,media alta,5
+1,asus,1024,32,15.6,2626.99,zenbook,intel core i9,https://www.bestbuy.com/site/asus-zenbook-pro-duo-15-ux582-15-6-touch-screen-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3060-1-tb-ssd-celestial-blue/6492151.p?skuId=6492151,media alta,23
+2,msi,1024,16,16.0,2529.99,creator,intel core i9,https://www.bestbuy.com/site/msi-creator-z16-16-touch-screen-laptop-intel-core-i9-16-gb-memory-nvidia-geforce-rtx-3060-1-tb-ssd-lunar-gray/6501199.p?skuId=6501199,media alta,31
+3,microsoft,2048,32,14.4,2799.99,surface laptop studio,intel core i7,https://www.bestbuy.com/site/microsoft-surface-laptop-studio-14-4-touch-screen-intel-core-i7-32gb-memory-nvidia-geforce-rtx-3050-ti-2tb-ssd-platinum/6478306.p?skuId=6478306,media alta,32
+4,msi,1024,16,15.6,2499.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-15-15-6-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3080-1-tb-ssd-black/6491558.p?skuId=6491558,media alta,35
+5,msi,1024,32,17.0,2989.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z17-a12u-17-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-lunar-gray/6501177.p?skuId=6501177,media alta,40
+6,razer,1024,16,15.6,2599.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3070-ti-16gb-ram-1tb-ssd-black/6499095.p?skuId=6499095,media alta,45
+7,razer,1024,16,17.3,2599.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3060-16gb-ram-1tb-ssd-black/6511850.p?skuId=6511850,media alta,45
+8,msi,1024,16,16.0,2599.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-b12u-16-touch-screen-laptop-intel-core-i7-16-gb-memory-nvidia-geforce-rtx-3070-ti-1-tb-ssd-lunar-gray/6501172.p?skuId=6501172,media alta,47
+9,msi,1024,32,16.0,3049.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-b12u-16-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3080-1-tb-ssd-lunar-gray/6501179.p?skuId=6501179,media alta,48

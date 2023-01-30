@@ -1,0 +1,9 @@
+,MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR,LINK,GAMA,PUNTUACION
+0,msi,1024,32,17.3,3499.99,raider,intel core i9,https://www.bestbuy.com/site/msi-raider-ge77-hx-17-3-gaming-laptop-intel-core-i9-32gb-memory-1-tb-ssd-dark-gray/6516320.p?skuId=6516320,alta,4
+1,razer,1024,32,15.6,3263.99,blade 15,intel core i7,https://www.bestbuy.com/site/razer-blade-15-15-6-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6499097.p?skuId=6499097,alta,10
+2,razer,1024,32,17.3,3499.99,blade 17,intel core i9,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-uhd-144hz-intel-core-i9-nvidia-geforce-rtx-3070-ti-32gb-ram-1tb-ssd-black/6511855.p?skuId=6511855,alta,10
+3,razer,1024,32,17.3,3499.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-fhd-360hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6504370.p?skuId=6504370,alta,19
+4,razer,1024,32,17.3,3699.99,blade 17,intel core i7,https://www.bestbuy.com/site/razer-blade-17-17-3-gaming-laptop-qhd-240hz-intel-core-i7-nvidia-geforce-rtx-3080-ti-32gb-ram-1tb-ssd-black/6504374.p?skuId=6504374,alta,25
+5,msi,1024,32,16.0,3699.99,creator,intel core i7,https://www.bestbuy.com/site/msi-creator-z16p-16-touch-screen-laptop-intel-core-i7-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-lunar-gray/6501196.p?skuId=6501196,alta,32
+6,msi,1024,32,15.6,3799.99,ge66,intel core i9,https://www.bestbuy.com/site/msi-ge66-raider-15-6-gaming-laptop-intel-core-i9-32-gb-memory-nvidia-geforce-rtx-3080-ti-1-tb-ssd-titanium-blue/6502637.p?skuId=6502637,alta,33
+7,msi,1024,32,17.3,3799.99,17.3,intel core i9,https://www.bestbuy.com/site/msi-17-3-gaming-laptop-intel-core-i9-32gb-memory-nvidia-quadro-rtx-a5000-1tb-ssd-titanium-blue/6469408.p?skuId=6469408,alta,35

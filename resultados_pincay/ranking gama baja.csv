@@ -1,0 +1,11 @@
+,MARCA,DISCO,RAM,PULGADAS,PRECIO,MODELO,PROCESADOR,LINK,GAMA,PUNTUACION
+0,hp,512,16,15.6,649.99,15.6,intel core i7,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i7-16gb-memory-512gb-ssd-natural-silver/6477889.p?skuId=6477889,baja,10
+1,hp,512,16,15.6,849.99,envy,intel core i7,https://www.bestbuy.com/site/hp-envy-x360-2-in-1-15-6-touch-screen-laptop-intel-evo-platform-intel-core-i7-16gb-memory-512gb-ssd-natural-silver/6502179.p?skuId=6502179,baja,33
+2,samsung,512,16,13.3,749.99,galaxy book,intel core i7,https://www.bestbuy.com/site/samsung-geek-squad-certi-refurbis-galaxy-book-flex2-alpha-13-3-qled-touch-scrn-laptop-intel-core-i7-16gb-memory-512gb-ssd-mystic-black/6508352.p?skuId=6508352,baja,42
+3,hp,512,8,15.6,499.99,15.6,intel core i5,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i5-8gb-memory-512gb-ssd-natural-silver/6510527.p?skuId=6510527,baja,42
+4,hp,256,12,15.6,429.99,15.6,intel core i5,https://www.bestbuy.com/site/hp-15-6-touch-screen-laptop-intel-core-i5-12gb-memory-256gb-ssd-natural-silver/6510531.p?skuId=6510531,baja,44
+5,hp,512,8,15.6,549.99,victus,intel core i5,https://www.bestbuy.com/site/hp-victus-15-6-gaming-laptop-intel-core-i5-12450h-8gb-memory-nvidia-geforce-gtx-1650-512gb-ssd-mica-silver/6503849.p?skuId=6503849,baja,48
+6,dell,256,8,15.6,429.99,inspiron,intel core i5,https://www.bestbuy.com/site/dell-inspiron-3511-15-6-touch-laptop-intel-core-i5-8gb-memory-256gb-solid-state-drive-black/6511315.p?skuId=6511315,baja,53
+7,acer,512,16,15.6,849.99,nitro,intel core i5,https://www.bestbuy.com/site/acer-nitro-5-15-6-fhd-gaming-laptop-intel-core-i5-nvidia-geforce-rtx-3050-ti-16gb-ddr4-512gb-gen-4-ssd-black/6504566.p?skuId=6504566,baja,62
+8,lenovo,256,8,15.6,349.99,ideapad,intel core i3,https://www.bestbuy.com/site/lenovo-ideapad-3i-15-6-hd-touch-laptop-core-i3-1115g4-8gb-memory-256gb-ssd-platinum-grey/6511950.p?skuId=6511950,baja,71
+9,dell,256,16,13.3,863.99,geek,intel core i7,https://www.bestbuy.com/site/dell-geek-squad-certified-refurbished-inspiron-13-3-4k-ultra-hd-touch-screen-laptop-intel-core-i7-16gb-memory-256gb-ssd-black/6410975.p?skuId=6410975,baja,75
