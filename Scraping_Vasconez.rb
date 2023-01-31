@@ -6,6 +6,7 @@ require 'time' # convierte a tiempo
 macro_brands=["UNIDEN","ACURITE","SPY","HIDDEN","INDOOR","GOOGLE","WIRELESS","LIGHT","BABY","SMALL","WIFI","FLIPPER"]
 
 CSV.open('camaras.csv', 'wb') do |csv|
+  csv << %w[NOMBRE RATING PRECIO FULLHD NIGHTVISION]
   conf=0; pagina=1
   while (pagina<4)
     puts "Scrapeando la url https://www.amazon.com/camaras_seguridad?page=#{pagina}..."
@@ -22,13 +23,33 @@ CSV.open('camaras.csv', 'wb') do |csv|
         enunciado.delete_at(0)
         enunciado.delete_at(0)
         contenido = enunciado.join(" ")
+        fullHD=false
+        if contenido.match(/1080P?/)
+          fullHD=true
+        end
+
+        nightVision = false
+        if contenido.match(/Night Vision/i)
+          nightVision = true
+        end
+
       else
         titulo = enunciado[0]
         enunciado.delete_at(0)
         contenido = enunciado.join(" ")
+
+        fullHD=false
+        if contenido.match(/1080P?/)
+          fullHD=true
+        end
+
+        nightVision = false
+        if contenido.match(/Night Vision/i)
+          nightVision = true
+        end
       end
-      #puts "\n" + titulo, contenido, rating, '$'+precio.to_s
-      csv << [titulo.upcase, rating, precio]
+      puts "\n" + titulo, contenido, rating, '$'+precio.to_s,fullHD, nightVision
+      csv << [titulo.upcase, rating, precio,fullHD,nightVision]
     end
     end
   pagina+=1
