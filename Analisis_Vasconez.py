@@ -63,7 +63,7 @@ plt.show()
 # Ejercicio 3
 # Se limpia el grafico anterior
 plt.clf()
-#Full HD
+# Full HD
 Eje3FullHD = []
 siWYZE = 0
 noWYZE = 0
@@ -86,10 +86,14 @@ Eje3FullHD.append(siREOLINK)
 Eje3FullHD.append(noREOLINK)
 Eje3FullHD.append(noWYZE)
 
-labels = 'Full HD WYZE','Full HD REOLINK', 'Sin Full HD REOLINK', 'Sin Full HD WYZE'
+labels = 'Full HD WYZE', 'Full HD REOLINK', 'Sin Full HD REOLINK', 'Sin Full HD WYZE'
+
+
 def absolute_value(val):
-    a  = int(np.round(val/100.*sum(Eje3FullHD), 0))
+    a = int(np.round(val/100.*sum(Eje3FullHD), 0))
     return a
+
+
 plt.pie(Eje3FullHD, autopct=absolute_value, startangle=-40)
 plt.axis('equal')
 plt.title('Full HD de las marcas WYZE Y REOLINK')
@@ -100,7 +104,7 @@ plt.show()
 
 # Se limpia el grafico anterior
 plt.clf()
-#Night Vision
+# Night Vision
 Eje3NightVision = []
 siWYZE = 0
 noWYZE = 0
@@ -123,10 +127,14 @@ Eje3NightVision.append(siREOLINK)
 Eje3NightVision.append(noREOLINK)
 Eje3NightVision.append(noWYZE)
 
-labels = 'Night Vision WYZE','Night Vision REOLINK', 'Sin Night Vision REOLINK', 'Sin Night Vision WYZE'
+labels = 'Night Vision WYZE', 'Night Vision REOLINK', 'Sin Night Vision REOLINK', 'Sin Night Vision WYZE'
+
+
 def absolute_value(val):
-    a  = int(np.round(val/100.*sum(Eje3NightVision), 0))
+    a = int(np.round(val/100.*sum(Eje3NightVision), 0))
     return a
+
+
 plt.pie(Eje3NightVision, autopct=absolute_value, startangle=-40)
 plt.axis('equal')
 plt.title('Night Vision de las marcas WYZE Y REOLINK')
